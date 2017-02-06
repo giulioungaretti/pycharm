@@ -1,0 +1,492 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument_drivers/ithaco/Ithaco_1211.py" timestamp="1486116986999">
+        <mark key="'" line="33" column="36" />
+        <mark key="[" line="33" column="65" />
+        <mark key="]" line="33" column="79" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/loop.py" timestamp="1484909429648">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/utils/logger.py" timestamp="1482155116575">
+        <mark key="[" line="0" column="19" />
+        <mark key="]" line="0" column="19" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="0" column="19" />
+      </file>
+      <file name="/Python Console" timestamp="1486373402953">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.py" timestamp="1485971220869">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1484667864590">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/helpers.py" timestamp="1485964279311">
+        <mark key="'" line="363" column="4" />
+        <mark key="[" line="364" column="41" />
+        <mark key="]" line="318" column="19" />
+        <mark key="^" line="318" column="19" />
+        <mark key="." line="318" column="19" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/tests/data_mocks.py" timestamp="1486046158346">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="." line="71" column="0" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Dokumenter/perf.py" timestamp="1479854125098">
+        <mark key="'" line="79" column="20" />
+        <mark key="[" line="79" column="20" />
+        <mark key="]" line="79" column="21" />
+        <mark key="^" line="79" column="20" />
+        <mark key="." line="79" column="21" />
+      </file>
+      <file name="$USER_HOME$/Downloads/param (2).py" timestamp="1485874609068">
+        <mark key="[" line="45" column="53" />
+        <mark key="]" line="46" column="13" />
+        <mark key="." line="46" column="13" />
+        <mark key="^" line="46" column="13" />
+      </file>
+      <file name="$USER_HOME$/Desktop/wrappers.py" timestamp="1485869860762">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/data/format.py" timestamp="1480944070451">
+        <mark key="[" line="74" column="31" />
+        <mark key="]" line="74" column="32" />
+        <mark key="^" line="74" column="32" />
+        <mark key="." line="74" column="32" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/tests/instrument_mocks.py" timestamp="1486123796322">
+        <mark key="'" line="299" column="47" />
+        <mark key="[" line="299" column="47" />
+        <mark key="]" line="299" column="55" />
+        <mark key="." line="299" column="55" />
+        <mark key="^" line="299" column="55" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/data/location.py" timestamp="1484405311307">
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="96" column="0" />
+        <mark key="." line="96" column="0" />
+        <mark key="^" line="94" column="25" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" timestamp="1486141876751">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="79" column="35" />
+        <mark key="]" line="79" column="36" />
+        <mark key="." line="79" column="36" />
+        <mark key="^" line="79" column="36" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/tests/test.py" timestamp="1485421168341">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="60" />
+        <mark key="." line="8" column="60" />
+        <mark key="^" line="8" column="60" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Dokumenter/src/QCoDeS-dk/qcodesdk/__init__.py" timestamp="1485449066989">
+        <mark key="[" line="0" column="18" />
+        <mark key="]" line="0" column="18" />
+        <mark key="^" line="0" column="19" />
+        <mark key="." line="0" column="18" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/bug.py" timestamp="1485942026513">
+        <mark key="[" line="1" column="19" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1485276705464">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/tests/test_format.py" timestamp="1480966170730">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="14" />
+        <mark key="." line="0" column="14" />
+        <mark key="^" line="0" column="14" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/tests/instrument_mocks.py" timestamp="1486123706824">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="299" column="47" />
+        <mark key="]" line="299" column="48" />
+        <mark key="." line="299" column="48" />
+        <mark key="^" line="299" column="48" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/loops.py" timestamp="1485270323284">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="26" column="8" />
+        <mark key="]" line="26" column="7" />
+        <mark key="^" line="26" column="7" />
+        <mark key="." line="26" column="7" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/config/qcodesrc.json" timestamp="1479753276382">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="2" column="26" />
+        <mark key="]" line="2" column="26" />
+        <mark key="." line="2" column="26" />
+        <mark key="^" line="2" column="26" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/wrapper.py" timestamp="1484297056104">
+        <mark key="'" line="11" column="21" />
+        <mark key="[" line="0" column="19" />
+        <mark key="]" line="0" column="19" />
+        <mark key="." line="0" column="19" />
+        <mark key="^" line="0" column="20" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Dokumenter/src/QCoDeS-dk/setup.py" timestamp="1485450088762">
+        <mark key="'" line="3" column="12" />
+        <mark key="[" line="14" column="86" />
+        <mark key="]" line="14" column="90" />
+        <mark key="." line="14" column="90" />
+        <mark key="^" line="14" column="90" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/actions.py" timestamp="1485968118711">
+        <mark key="[" line="146" column="0" />
+        <mark key="]" line="146" column="0" />
+        <mark key="." line="146" column="0" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/instrument_drivers/ithaco/Ithaco_1211.py" timestamp="1486128348395">
+        <mark key="'" line="90" column="0" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/logger_setup.py" timestamp="1482156968484">
+        <mark key="'" line="20" column="54" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="44" />
+        <mark key="." line="1" column="44" />
+        <mark key="^" line="1" column="44" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/run.py" timestamp="1485870476209">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="38" column="9" />
+        <mark key="^" line="38" column="9" />
+        <mark key="." line="38" column="9" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/loops.py" timestamp="1486051686156">
+        <mark key="'" line="1040" column="8" />
+        <mark key="[" line="997" column="0" />
+        <mark key="]" line="997" column="85" />
+        <mark key="^" line="977" column="31" />
+        <mark key="." line="997" column="0" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument_drivers/rohde_schwarz/ZNB20.py" timestamp="1486117138348">
+        <mark key="'" line="153" column="13" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument/sweep_values.py" timestamp="1485433716315">
+        <mark key="'" line="38" column="36" />
+        <mark key="[" line="186" column="0" />
+        <mark key="]" line="186" column="0" />
+        <mark key="^" line="186" column="7" />
+        <mark key="." line="186" column="0" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/app.py" timestamp="1485179076785">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="47" column="22" />
+        <mark key="]" line="47" column="23" />
+        <mark key="." line="47" column="23" />
+        <mark key="^" line="47" column="23" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/tests/test_location_provider.py" timestamp="1486047750620">
+        <mark key="'" line="27" column="9" />
+        <mark key="]" line="42" column="21" />
+        <mark key="." line="42" column="21" />
+        <mark key="^" line="42" column="21" />
+      </file>
+      <file name="$USER_HOME$/Downloads/param.py" timestamp="1485973004421">
+        <mark key="'" line="37" column="16" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="53" column="4" />
+        <mark key="^" line="53" column="4" />
+        <mark key="." line="53" column="4" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/utils/wrappers.py" timestamp="1486124960957">
+        <mark key="'" line="0" column="21" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="21" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/plots/base.py" timestamp="1485270379555">
+        <mark key="'" line="115" column="10" />
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="2" />
+        <mark key="^" line="0" column="2" />
+        <mark key="." line="0" column="2" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/instrument_drivers/rohde_schwarz/ZNB20.py" timestamp="1486129291532">
+        <mark key="'" line="34" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="1039" column="8" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/loops.py" />
+      <jump line="37" column="16" filename="$USER_HOME$/Downloads/param.py" />
+      <jump line="24" column="0" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
+      <jump line="187" column="4" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
+      <jump line="43" column="73" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
+      <jump line="68" column="51" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
+      <jump line="112" column="51" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
+      <jump line="145" column="54" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
+      <jump line="149" column="48" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
+      <jump line="173" column="48" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
+      <jump line="33" column="43" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/data/location.py" />
+      <jump line="27" column="55" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/data/location.py" />
+      <jump line="34" column="18" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/data/location.py" />
+      <jump line="41" column="6" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/data/location.py" />
+      <jump line="42" column="6" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/data/location.py" />
+      <jump line="43" column="26" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/data/location.py" />
+      <jump line="46" column="45" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/data/location.py" />
+      <jump line="47" column="42" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/data/location.py" />
+      <jump line="52" column="26" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/data/location.py" />
+      <jump line="71" column="61" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/data/location.py" />
+      <jump line="81" column="34" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/data/location.py" />
+      <jump line="88" column="21" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/data/location.py" />
+      <jump line="92" column="31" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/data/location.py" />
+      <jump line="147" column="17" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/data/location.py" />
+      <jump line="95" column="24" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/data/location.py" />
+      <jump line="97" column="38" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/data/location.py" />
+      <jump line="98" column="38" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/data/location.py" />
+      <jump line="100" column="37" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/data/location.py" />
+      <jump line="130" column="12" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/data/location.py" />
+      <jump line="131" column="51" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/data/location.py" />
+      <jump line="137" column="13" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/data/location.py" />
+      <jump line="140" column="30" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/data/location.py" />
+      <jump line="141" column="34" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/data/location.py" />
+      <jump line="148" column="17" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/data/location.py" />
+      <jump line="150" column="57" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/data/location.py" />
+      <jump line="152" column="35" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/data/location.py" />
+      <jump line="31" column="4" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
+      <jump line="27" column="48" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
+      <jump line="167" column="0" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
+      <jump line="7" column="6" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/data/location.py" />
+      <jump line="96" column="13" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/data/location.py" />
+      <jump line="46" column="10" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/tests/test_location_provider.py" />
+      <jump line="43" column="47" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/tests/test_location_provider.py" />
+      <jump line="27" column="9" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/tests/test_location_provider.py" />
+      <jump line="111" column="18" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
+      <jump line="128" column="0" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
+      <jump line="116" column="8" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
+      <jump line="106" column="61" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
+      <jump line="70" column="58" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
+      <jump line="57" column="8" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
+      <jump line="53" column="0" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
+      <jump line="210" column="8" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
+      <jump line="169" column="0" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
+      <jump line="217" column="0" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
+      <jump line="44" column="68" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
+      <jump line="243" column="4" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
+      <jump line="225" column="4" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
+      <jump line="112" column="43" filename="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument_drivers/rohde_schwarz/ZNB20.py" />
+      <jump line="130" column="31" filename="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument_drivers/rohde_schwarz/ZNB20.py" />
+      <jump line="135" column="31" filename="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument_drivers/rohde_schwarz/ZNB20.py" />
+      <jump line="140" column="31" filename="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument_drivers/rohde_schwarz/ZNB20.py" />
+      <jump line="57" column="6" filename="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument_drivers/ithaco/Ithaco_1211.py" />
+      <jump line="33" column="36" filename="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument_drivers/ithaco/Ithaco_1211.py" />
+      <jump line="153" column="13" filename="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument_drivers/rohde_schwarz/ZNB20.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/tests/instrument_mocks.py" />
+      <jump line="253" column="0" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/tests/instrument_mocks.py" />
+      <jump line="299" column="47" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/tests/instrument_mocks.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/utils/wrappers.py" />
+      <jump line="242" column="21" filename="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/utils/wrappers.py" />
+      <jump line="72" column="14" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
+      <jump line="221" column="0" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
+      <jump line="78" column="0" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
+      <jump line="83" column="46" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
+      <jump line="92" column="42" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
+      <jump line="131" column="0" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
+      <jump line="137" column="38" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
+      <jump line="90" column="0" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/instrument_drivers/ithaco/Ithaco_1211.py" />
+      <jump line="49" column="6" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/instrument_drivers/rohde_schwarz/ZNB20.py" />
+      <jump line="34" column="0" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/instrument_drivers/rohde_schwarz/ZNB20.py" />
+      <jump line="66" column="0" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
+      <jump line="170" column="0" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
+      <jump line="172" column="29" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
+      <jump line="177" column="61" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
+      <jump line="201" column="85" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
+      <jump line="205" column="62" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
+      <jump line="8" column="32" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
+      <jump line="52" column="8" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
+      <jump line="117" column="29" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
+      <jump line="121" column="62" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
+      <jump line="122" column="61" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
+      <jump line="155" column="0" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
+      <jump line="165" column="62" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
+      <jump line="13" column="22" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
+      <jump line="37" column="19" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
+      <jump line="200" column="0" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
+      <jump line="42" column="0" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
+      <jump line="178" column="0" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>k</text>
+      </register>
+      <register name="-" type="4">
+        <text>k</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxuYW1lXD4=</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHRpdGxlID0gIiN7MDowM2R9Ii5mb3JtYXQoZGF0YS5sb2NhdGlvbl9wcm92aWRlci5jb3VudGVyKQo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgICAgICBwcmludChlKQo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHRyeToKICAgICAgICBmaWxlID0gW2kgZm9yIGkgaW4gcWMuRGlza0lPKENVUlJFTlRfRVhQRVJJTUVOVFsibWFpbmZvbGRlciJdKS5saXN0KHQpIGlmICIuZGF0IiBpbiBpXVswXQogICAgZXhjZXB0IEluZGV4RXJyb3I6CiAgICAgICAgbG9nZ2luZy5lcnJvcigiTm90IGFibGUgdG8gZmluZCB0aGUgaWQgaW4gZXhwZXJpbWVudCB7fSIuZm9ybWF0KENVUlJFTlRfRVhQRVJJTUVOVFsiZXhwX2ZvbGRlciJdKSkKICAgICAgICByZXR1cm4gTm9uZSwgTm9uZQogICAgaW1wb3J0IHBkYgogICAgcGRiLnNldF90cmFjZSgpCiAgICB0cnk6Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGlmIG5vdCAie25hbWV9IiBpbiBxYy5kYXRhLmRhdGFfc2V0LkRhdGFTZXQubG9jYXRpb25fcHJvdmlkZXIuZm10OgogICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoIm1pc3NpbmcgbmFtZSAgaW4ge30iLmZvcm1hdChxYy5kYXRhLmRhdGFfc2V0LkRhdGFTZXQubG9jYXRpb25fcHJvdmlkZXIuZm10KSkK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGlmIG5vdCAie25hbWV9IiBpbiBxYy5kYXRhLmRhdGFfc2V0LkRhdGFTZXQubG9jYXRpb25fcHJvdmlkZXIuZm10OgogICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoIm1pc3NpbmcgIGluIHt9Ii5mb3JtYXQocWMuZGF0YS5kYXRhX3NldC5EYXRhU2V0LmxvY2F0aW9uX3Byb3ZpZGVyLmZtdCkpCgogICAgbmFtZSA9IGluc3Rfc2V0LmxhYmVsICsgaW5zdDJfc2V0LmxhYmVsCiAgICBuYW1lID0gbmFtZSArICIiLmpvaW4oW2kubGFiZWwgZm9yIGkgaW4gaW5zdF9tZWFzXSkKICAgIG5hbWUgPSBuYW1lLnJlcGxhY2UoIiAiLCAiIikK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGlmIG5vdCAie25hbWV9IiBpbiBxYy5kYXRhLmRhdGFfc2V0LkRhdGFTZXQubG9jYXRpb25fcHJvdmlkZXIuZm10OgogICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoIm1pc3NpbmcgbmFtZSBpbiB7fSIuZm9ybWF0KHFjLmRhdGEuZGF0YV9zZXQuRGF0YVNldC5sb2NhdGlvbl9wcm92aWRlci5mbXQpKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIG5hbWUgPSAie317fSIuZm9ybWF0KGRhdGEubG9jYXRpb25fcHJvdmlkZXIuY291bnRlciwgbmFtZSkK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIG5hbWUgPSBpbnN0X3NldC5sYWJlbCArIGluc3Rfc2V0Mi5sYWJlbAogICAgbmFtZSA9IG5hbWUgKyAiIi5qb2luKFtpLmxhYmVsIGZvciBpIGluIGluc3RfbWVhc10pCiAgICBuYW1lID0gbmFtZS5yZXBsYWNlKCIgIiwgIiIpCg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+    <search>
+      <last-search encoding="base64">XDxuYW1lXD4=</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxuYW1lXD4=</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>counter</entry>
+        <entry>t</entry>
+        <entry encoding="base64">XDxTYWZlRm9ybWF0dGVyXD4=</entry>
+        <entry encoding="base64">XDxmb3JtYXR0ZXJcPg==</entry>
+        <entry encoding="base64">XDwpXD4=</entry>
+        <entry>magic</entry>
+        <entry>magci</entry>
+        <entry>delay</entry>
+        <entry>josin</entry>
+        <entry>join</entry>
+        <entry encoding="base64">XDxGcmVxdWVuY3lTd2VlcFw+</entry>
+        <entry>names=</entry>
+        <entry>shape</entry>
+        <entry>arb</entry>
+        <entry>arb.</entry>
+        <entry>title</entry>
+        <entry>labels</entry>
+        <entry>name</entry>
+        <entry>missing</entry>
+        <entry encoding="base64">XDxuYW1lXD4=</entry>
+      </history-search>
+      <history-cmd>
+        <entry>Wa</entry>
+        <entry>:W</entry>
+        <entry>Q</entry>
+        <entry>q!</entry>
+        <entry>buffers</entry>
+        <entry encoding="base64">JzwsJz53</entry>
+        <entry>q</entry>
+        <entry>qa</entry>
+        <entry>vs</entry>
+        <entry>e</entry>
+        <entry>ws</entry>
+        <entry encoding="base64">JzwsJz5zb3J0</entry>
+        <entry>'w</entry>
+        <entry>&quot;w</entry>
+        <entry>wa</entry>
+        <entry>wqa</entry>
+        <entry>W\</entry>
+        <entry>Wqa</entry>
+        <entry>w</entry>
+        <entry>W</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>

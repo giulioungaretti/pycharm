@@ -1,0 +1,104 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 3.5.2 (C:\Users\giuli\Anaconda3\python.exe)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.2" />
+      <homePath value="C:\Users\giuli\Anaconda3\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/Anaconda3/DLLs" />
+            <root type="simple" url="file://$USER_HOME$/Anaconda3/Lib" />
+            <root type="simple" url="file://$USER_HOME$/Anaconda3" />
+            <root type="simple" url="file://$USER_HOME$/Anaconda3/Lib/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Anaconda3/Lib/site-packages/win32" />
+            <root type="simple" url="file://$USER_HOME$/Anaconda3/Lib/site-packages/win32/lib" />
+            <root type="simple" url="file://$USER_HOME$/Anaconda3/Lib/site-packages/pythonwin" />
+            <root type="simple" url="jar://$USER_HOME$/Anaconda3/Lib/site-packages/setuptools-27.2.0-py3.5.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/-864394107" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6.0 (C:\Users\giuli\Anaconda3\envs\qcodes-qdev-master\python.exe)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.0" />
+      <homePath value="C:\Users\giuli\Anaconda3\envs\qcodes-qdev-master\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/Anaconda3/envs/qcodes-qdev-master/DLLs" />
+            <root type="simple" url="file://$USER_HOME$/Anaconda3/envs/qcodes-qdev-master/Lib" />
+            <root type="simple" url="file://$USER_HOME$/Anaconda3/envs/qcodes-qdev-master" />
+            <root type="simple" url="file://$USER_HOME$/Anaconda3/envs/qcodes-qdev-master/Lib/site-packages" />
+            <root type="simple" url="jar://$USER_HOME$/Anaconda3/envs/qcodes-qdev-master/Lib/site-packages/setuptools-27.2.0-py3.6.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/803587864" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6.0 (C:\Users\giuli\Anaconda3\envs\qdev-qcodes-dev\python.exe)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.0" />
+      <homePath value="C:\Users\giuli\Anaconda3\envs\qdev-qcodes-dev\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/Anaconda3/envs/qdev-qcodes-dev/DLLs" />
+            <root type="simple" url="file://$USER_HOME$/Anaconda3/envs/qdev-qcodes-dev/Lib" />
+            <root type="simple" url="file://$USER_HOME$/Anaconda3/envs/qdev-qcodes-dev" />
+            <root type="simple" url="file://$USER_HOME$/Anaconda3/envs/qdev-qcodes-dev/Lib/site-packages" />
+            <root type="simple" url="jar://$USER_HOME$/Anaconda3/envs/qdev-qcodes-dev/Lib/site-packages/setuptools-27.2.0-py3.6.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/-1643556659" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.2 (C:\Users\giuli\Miniconda3\envs\dev-qdev\python.exe)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.2" />
+      <homePath value="C:\Users\giuli\Miniconda3\envs\dev-qdev\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/Miniconda3/envs/dev-qdev/DLLs" />
+            <root type="simple" url="file://$USER_HOME$/Miniconda3/envs/dev-qdev/Lib" />
+            <root type="simple" url="file://$USER_HOME$/Miniconda3/envs/dev-qdev" />
+            <root type="simple" url="file://$USER_HOME$/Miniconda3/envs/dev-qdev/Lib/site-packages" />
+            <root type="simple" url="jar://$USER_HOME$/Miniconda3/envs/dev-qdev/Lib/site-packages/setuptools-27.2.0-py3.5.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/-1168924816" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>
