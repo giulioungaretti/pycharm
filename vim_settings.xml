@@ -137,6 +137,7 @@
         <mark key="." line="14" column="90" />
         <mark key="^" line="14" column="90" />
       </file>
+      <file name="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/utils/zmqlogger.py" timestamp="1486377728606" />
       <file name="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/actions.py" timestamp="1485968118711">
         <mark key="[" line="146" column="0" />
         <mark key="]" line="146" column="0" />
@@ -168,7 +169,7 @@
         <mark key="^" line="977" column="31" />
         <mark key="." line="997" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument_drivers/rohde_schwarz/ZNB20.py" timestamp="1486117138348">
+      <file name="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument_drivers/rohde_schwarz/ZNB20.py" timestamp="1486377611297">
         <mark key="'" line="153" column="13" />
       </file>
       <file name="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument/sweep_values.py" timestamp="1485433716315">
