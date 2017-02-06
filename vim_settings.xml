@@ -3,11 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument_drivers/ithaco/Ithaco_1211.py" timestamp="1486116986999">
-        <mark key="'" line="33" column="36" />
-        <mark key="[" line="33" column="65" />
-        <mark key="]" line="33" column="79" />
-      </file>
       <file name="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/loop.py" timestamp="1484909429648">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -113,10 +108,6 @@
       </file>
       <file name="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/tests/instrument_mocks.py" timestamp="1486123706824">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="299" column="47" />
-        <mark key="]" line="299" column="48" />
-        <mark key="." line="299" column="48" />
-        <mark key="^" line="299" column="48" />
       </file>
       <file name="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/loops.py" timestamp="1485270323284">
         <mark key="'" line="0" column="0" />
@@ -179,9 +170,6 @@
       </file>
       <file name="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument_drivers/rohde_schwarz/ZNB20.py" timestamp="1486117138348">
         <mark key="'" line="153" column="13" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument/sweep_values.py" timestamp="1485433716315">
         <mark key="'" line="38" column="36" />
