@@ -223,11 +223,11 @@
         <mark key="^" line="53" column="4" />
         <mark key="." line="53" column="4" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument_drivers/run.py" timestamp="1486557674517">
-        <mark key="[" line="16" column="1" />
-        <mark key="]" line="19" column="15" />
-        <mark key="." line="19" column="15" />
-        <mark key="^" line="19" column="15" />
+      <file name="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument_drivers/run.py" timestamp="1486558748463">
+        <mark key="[" line="22" column="6" />
+        <mark key="]" line="22" column="16" />
+        <mark key="." line="22" column="16" />
+        <mark key="^" line="22" column="16" />
       </file>
       <file name="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/utils/wrappers.py" timestamp="1486374308176">
         <mark key="'" line="0" column="21" />
@@ -357,11 +357,11 @@
       <jump line="29" column="65" filename="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument_drivers/Harvard/Decadac.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>calibartion</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>calibartion</text>
       </register>
       <register name="/" type="4">
         <text>manual</text>
