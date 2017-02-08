@@ -55,12 +55,11 @@
         <mark key="." line="46" column="13" />
         <mark key="^" line="46" column="13" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument_drivers/devices.py" timestamp="1486561802942">
-        <mark key="'" line="12" column="25" />
-        <mark key="[" line="17" column="32" />
-        <mark key="]" line="19" column="40" />
-        <mark key="." line="19" column="40" />
-        <mark key="^" line="19" column="40" />
+      <file name="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument_drivers/devices.py" timestamp="1486562967318">
+        <mark key="'" line="14" column="25" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/wrappers.py" timestamp="1485869860762">
         <mark key="[" line="0" column="0" />
@@ -358,11 +357,11 @@
       <jump line="17" column="25" filename="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument_drivers/devices.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>names=(p_name+'_raw', name), shapes=((), ())</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>names=(p_name+'_raw', name), shapes=((), ())</text>
+        <text>Prameter</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfZ2V0XD4=</text>
@@ -371,28 +370,28 @@
         <text encoding="base64">ICAgICAgICBzZWxmLnIxID0gcjEK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmxhYmVscyA9IChwX2xhYmVsLCAnQ3VycmVudCcpCiAgICAgICAgc2VsZi51bml0cyA9IChwX3VuaXQsICdBJykK</text>
+        <text encoding="base64">ICAgICAgICBpZiBnZXRhdHRyKHNlbGYudjIsICJnZXQiLCBOb25lKToKICAgICAgICAgICAgcmFpc2UgVHlwZUVycm9yKCJQYXJhbWV0ZXIge30sIGRvZXMgbm90IGhhdmUgZ2V0IG1ldGhvZCIuZm9ybWF0KHYyLm5hbWUpKQogICAgICAgIHRyeToK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdm9sdGFnZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi52MiA9IHYyCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWYgcmVzaXRpdmVfZ2Fpbih2b3V0LCB2MCwgdjEsIHIwLCByMSk6CiAgICAgICAgICAgIHJldHVybiAodm91dCAtICh2MioocjAvKHIwK3IyKSkpKSAqIChyMCtyMSkvcjAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGBgQ3VycmVudFBhcmFtZXRlci5nZXQoKWBgIHJldHVybnMgYGAodm9sdGFnZV9yYXcsIGN1cnJlbnQpYGAK</text>
+        <text encoding="base64">ICAgICAgICB2Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEFyZ3M6CiAgICAgICAgbWVhc3VyZWRfcGFyYW0gKFBhcmFtZXRlcik6IGEgZ2V0dGFibGUgcGFyYW1ldGVyIHJldHVybmluZyB0aGUK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmxhYmVscyA9IChwX2xhYmVsLCAnQ3VycmVudCcpCiAgICAgICAgc2VsZi51bml0cyA9IChwX3VuaXQsICdBJykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgc2VsZi5fbWVhc3VyZWRfcGFyYW0gPSBtZWFzdXJlZF9wYXJhbQogICAgICAgIHNlbGYuX2luc3RydW1lbnQgPSBjX2FtcF9pbnMKCiAgICAgICAgcF9sYWJlbCA9IGdldGF0dHIobWVhc3VyZWRfcGFyYW0sICdsYWJlbCcsIE5vbmUpCiAgICAgICAgcF91bml0ID0gZ2V0YXR0cihtZWFzdXJlZF9wYXJhbSwgJ3VuaXQnLCBOb25lKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdm9sdGFnZQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -450,8 +449,8 @@
         <entry>q</entry>
         <entry>set noerrorbells</entry>
         <entry>set visualbell</entry>
-        <entry>W</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
