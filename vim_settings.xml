@@ -55,11 +55,11 @@
         <mark key="." line="46" column="13" />
         <mark key="^" line="46" column="13" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument_drivers/devices.py" timestamp="1486557732735">
-        <mark key="[" line="17" column="38" />
-        <mark key="]" line="15" column="18" />
-        <mark key="^" line="15" column="18" />
-        <mark key="." line="15" column="18" />
+      <file name="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument_drivers/devices.py" timestamp="1486559786687">
+        <mark key="[" line="17" column="42" />
+        <mark key="]" line="17" column="42" />
+        <mark key="^" line="17" column="38" />
+        <mark key="." line="17" column="42" />
       </file>
       <file name="$USER_HOME$/Desktop/wrappers.py" timestamp="1485869860762">
         <mark key="[" line="0" column="0" />
@@ -358,10 +358,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>calibartion</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>calibartion</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>manual</text>
