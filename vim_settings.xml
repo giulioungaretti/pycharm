@@ -55,8 +55,8 @@
         <mark key="." line="46" column="13" />
         <mark key="^" line="46" column="13" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument_drivers/devices.py" timestamp="1486567219913">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument_drivers/devices.py" timestamp="1486568346839">
+        <mark key="'" line="0" column="22" />
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
@@ -365,7 +365,7 @@
       <jump line="849" column="18" filename="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument/parameter.py" />
       <jump line="848" column="18" filename="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument/parameter.py" />
       <jump line="16" column="19" filename="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument_drivers/devices.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument_drivers/devices.py" />
+      <jump line="0" column="22" filename="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument_drivers/devices.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
