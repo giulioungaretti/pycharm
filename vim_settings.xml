@@ -20,7 +20,6 @@
       <file name="/fragment.py" timestamp="1485971220869">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/instrument_drivers/AlazarTech/ATS9870.py" timestamp="1486461700577" />
       <file name="/a.dummy" timestamp="1484667864590">
         <mark key="[" line="0" column="0" />
       </file>
@@ -149,7 +148,6 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/instrument_drivers/AlazarTech/ATS.py" timestamp="1486461705670" />
       <file name="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/logger_setup.py" timestamp="1482156968484">
         <mark key="'" line="20" column="54" />
         <mark key="[" line="0" column="0" />
@@ -172,6 +170,9 @@
       </file>
       <file name="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument_drivers/rohde_schwarz/ZNB20.py" timestamp="1486377611297">
         <mark key="'" line="153" column="13" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/instrument_drivers/stanford_research/SR830.py" timestamp="1486548492647">
+        <mark key="'" line="135" column="24" />
       </file>
       <file name="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument/sweep_values.py" timestamp="1485433716315">
         <mark key="'" line="38" column="36" />
@@ -226,10 +227,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="187" column="4" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
-      <jump line="43" column="73" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
-      <jump line="68" column="51" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
-      <jump line="112" column="51" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
       <jump line="145" column="54" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
       <jump line="149" column="48" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
       <jump line="173" column="48" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
@@ -326,6 +323,10 @@
       <jump line="52" column="30" filename="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument_drivers/ithaco/Ithaco_1211.py" />
       <jump line="22" column="11" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/plots/pyqtgraph.py" />
       <jump line="0" column="0" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/plots/pyqtgraph.py" />
+      <jump line="6" column="20" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/instrument_drivers/stanford_research/SR830.py" />
+      <jump line="154" column="33" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/instrument_drivers/stanford_research/SR830.py" />
+      <jump line="155" column="39" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/instrument_drivers/stanford_research/SR830.py" />
+      <jump line="135" column="24" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/instrument_drivers/stanford_research/SR830.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -335,7 +336,7 @@
         <text>k</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxuYW1lXD4=</text>
+        <text>cons</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHRpdGxlID0gIiN7MDowM2R9Ii5mb3JtYXQoZGF0YS5sb2NhdGlvbl9wcm92aWRlci5jb3VudGVyKQo=</text>
@@ -372,16 +373,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxuYW1lXD4=</last-search>
+      <last-search>cons</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxuYW1lXD4=</last-pattern>
+      <last-pattern>cons</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>counter</entry>
-        <entry>t</entry>
         <entry encoding="base64">XDxTYWZlRm9ybWF0dGVyXD4=</entry>
         <entry encoding="base64">XDxmb3JtYXR0ZXJcPg==</entry>
         <entry encoding="base64">XDwpXD4=</entry>
@@ -400,6 +399,8 @@
         <entry>name</entry>
         <entry>missing</entry>
         <entry encoding="base64">XDxuYW1lXD4=</entry>
+        <entry>timecon</entry>
+        <entry>cons</entry>
       </history-search>
       <history-cmd>
         <entry>Wa</entry>
