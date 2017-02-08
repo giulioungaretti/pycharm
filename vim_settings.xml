@@ -55,12 +55,12 @@
         <mark key="." line="46" column="13" />
         <mark key="^" line="46" column="13" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument_drivers/devices.py" timestamp="1486568602017">
-        <mark key="'" line="0" column="22" />
-        <mark key="[" line="9" column="49" />
-        <mark key="]" line="9" column="55" />
-        <mark key="." line="9" column="55" />
-        <mark key="^" line="9" column="55" />
+      <file name="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument_drivers/devices.py" timestamp="1486570540207">
+        <mark key="'" line="27" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="43" column="27" />
+        <mark key="." line="7" column="29" />
+        <mark key="^" line="7" column="29" />
       </file>
       <file name="$USER_HOME$/Desktop/wrappers.py" timestamp="1485869860762">
         <mark key="[" line="0" column="0" />
@@ -266,8 +266,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="92" column="42" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
-      <jump line="131" column="0" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
       <jump line="137" column="38" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
       <jump line="90" column="0" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/instrument_drivers/ithaco/Ithaco_1211.py" />
       <jump line="49" column="6" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/instrument_drivers/rohde_schwarz/ZNB20.py" />
@@ -365,20 +363,22 @@
       <jump line="849" column="18" filename="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument/parameter.py" />
       <jump line="848" column="18" filename="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument/parameter.py" />
       <jump line="16" column="19" filename="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument_drivers/devices.py" />
-      <jump line="0" column="22" filename="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument_drivers/devices.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument_drivers/devices.py" />
+      <jump line="43" column="0" filename="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument_drivers/devices.py" />
+      <jump line="27" column="0" filename="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument_drivers/devices.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>mesaure</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSBxY29kZXMgaW1wb3J0IFBhcmFtZXRlcgoKCmRlZiByZXNpdGl2ZV9nYWluKHZvdXQsIHYyLCByMCwgcjEsIHIyKToKICAgIHJldHVybiAodm91dCAtICh2MiAqIChyMCAvIChyMCArIHIyKSkpKSAqIChyMCArIHIxKSAvIHIwCgoKY2xhc3MgVm9sdGFnZURpdmlkZXIoUGFyYW1ldGVyKToKICAgICIiIgogICAgUmVzaXRpdmUgdm9sdGFnZSBkaXZpZGVyCgogICAgVG8gYmUgdXNlZCB3aGVuIHlvdSB1c2UgYSB2b2x0YWdlIGRpdmlkZXIgdG8gbWVhc3VyZSBhIHBhcmFtZXRlci4KICAgIFRoaXMgYWxsb3dzIGxvZ2dpbmcgb2YgeW91ciAiZGl2aWRlciIsIGFuZCB5b3UgZ2V0IHRoZSByaWdodCBkYXRhCiAgICBhbmQgbGFiZWwgYmFjay4KCiAgICAiIiIKCiAgICBkZWYgX19pbml0X18oc2VsZiwgdjE6IFN0YW5kYXJkUGFyYW1ldGVyLCByMSwgdjI6IFN0YW5kYXJkUGFyYW1ldGVyLCByMiwgcl9ncm91bmQpOgogICAgICAgIHNlbGYudjEgPSB2MQogICAgICAgIHNlbGYucjEgPSByMQogICAgICAgIHNlbGYudjIgPSB2MgogICAgICAgIHNlbGYudjJfdmFsdWUgPSBzZWxmLnYyLmdldCgpCiAgICAgICAgc2VsZi5yMiA9IHIyCiAgICAgICAgc2VsZi5yX2dyb3VuZCA9IHJfZ3JvdW5kCiAgICAgICAgIyBjYWxjdWxhdGUgc2NhbGUgZnVuY3Rpb24KICAgICAgICBzZWxmLmNvbnN0YW50ID0gbGFtYmRhIHg6IHJlc2l0aXZlX2dhaW4oeCwgc2VsZi52Ml92YWx1ZSwgcl9ncm91bmQsIHNlbGYucjEsIHNlbGYucjIpCiAgICAgICAgIyBuYW1lIHBhcmFtZXRlciB0byBiZSBzZXQKICAgICAgICBzdXBlcigpLl9faW5pdF9fKG5hbWU9c2VsZi52MS5uYW1lLAogICAgICAgICAgICAgICAgICAgICAgICAgIyBoYWNreSBidXQgd2F0aGV2ZXIKICAgICAgICAgICAgICAgICAgICAgICAgIGluc3RydW1lbnQ9c2VsZi52MS5faW5zdHJ1bWVudCwKICAgICAgICAgICAgICAgICAgICAgICAgIGxhYmVsPXNlbGYudjEubmFtZSwKICAgICAgICAgICAgICAgICAgICAgICAgIHVuaXQ9c2VsZi52MS5uYW1lLAogICAgICAgICAgICAgICAgICAgICAgICAgbWV0YWRhdGE9c2VsZi52MS5tZXRhZGF0YSkKCiAgICBkZWYgc2V0KHNlbGYsIHZhbHVlKToKICAgICAgICBpbnN0cnVtZW50X3ZhbHVlID0gc2VsZi5jb25zdGFudCh2YWx1ZSkKICAgICAgICBzZWxmLnYxLnNldChpbnN0cnVtZW50X3ZhbHVlKQoKICAgIGRlZiBnZXRfaW5zdHJ1bWVudF92YWx1ZShzZWxmKToKICAgICAgICAiIiIKICAgICAgICBSZXR1cm5zOgogICAgICAgICAgICBudW1iZXI6IHZhbHVlIGF0IHdoaWNoIHRoZSBhdHRhY2hlZCBwYXJhZW10ZXIgaXMgKGkuZS4gZG9lcyBub3QgYWNjb3VudCBmb3IgdGhlIHNjYWxpbmcpCiAgICAgICAgIiIiCiAgICAgICAgcmV0dXJuIHNlbGYudjEuZ2V0KCkK</text>
       </register>
       <register name="-" type="4">
-        <text>mesaure</text>
+        <text>StandardParameter</text>
       </register>
       <register name="/" type="4">
         <text>set_sweep</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBxY29kZXMgaW1wb3J0IFBhcmFtZXRlciwgU3RhbmRhcmRQYXJhbWV0ZXIKCmRlZiByZXNpdGl2ZV9nYWluKHZvdXQsIHYyLCByMCwgcjEsIHIyKToKICAgIHJldHVybiAodm91dCAtICh2MioocjAvKHIwK3IyKSkpKSAqIChyMCtyMSkvcjAKCmNsYXNzIFZvbHRhZ2VEaXZpZGVyKFN0YW5kYXJkUGFyYW1ldGVyKToKICAgICIiIgogICAgUmVzaXRpdmUgdm9sdGFnZSBkaXZpZGVyCgogICAgVG8gYmUgdXNlZCB3aGVuIHlvdSB1c2UgYSB2b2x0YWdlIGRpdmlkZXIgdG8gbWVzYXVyZSBhIHBhcmFtZXRlci4KICAgIFRoaXMgYWxsb3dzIGxvZ2dpbmcgb2YgeW91ciAiZGl2aWRlciIsIGFuZCB5b3UgZ2V0IHRoZSByaWdodCBkYXRhCiAgICBhbmQgbGFiZWwgYmFjay4KCiAgICAiIiIKICAgIGRlZiBfX2luaXRfXyhzZWxmLCB2MTpTdGFuZGFyZFBhcmFtZXRlciwgcjEsIHYyOlN0YW5kYXJkUGFyYW1ldGVyLCByMiwgcl9ncm91bmQpOgogICAgICAgIHNlbGYudjEgPSB2MQogICAgICAgIHNlbGYucjEgPSByMQogICAgICAgIHNlbGYudjIgPSB2MgogICAgICAgIHNlbGYudjJfdmFsdWUgPSBzZWxmLnYyLmdldCgpCiAgICAgICAgc2VsZi5yMiA9IHIyCiAgICAgICAgc2VsZi5yX2dyb3VuZCA9IHJfZ3JvdW5kCiAgICAgICAgIyBjYWxjdWxhdGUgc2NhbGUgZnVuY3Rpb24KICAgICAgICBzZWxmLmNvbnN0YW50ID0gbGFtYmRhIHg6IHJlc2l0aXZlX2dhaW4oeCwgc2VsZi52Ml92YWx1ZSwgcl9ncm91bmQsIHNlbGYucjEsIHNlbGYucjIpCiAgICAgICAjIG5hbWUgcGFyYW1ldGVyIHRvIGJlIHNldAogICAgICAgIHN1cGVyKCkuX19pbml0X18obmFtZT1zZWxmLnYxLm5hbWUsCiAgICAgICAgICAgICAgICAgICAgICAgICAjIGhhY2t5IGJ1dCB3YXRoZXZlcgogICAgICAgICAgICAgICAgICAgICAgICAgaW5zdHJ1bWVudD1zZWxmLnYxLl9pbnN0cnVtZW50LAogICAgICAgICAgICAgICAgICAgICAgICAgbGFiZWw9c2VsZi52MS5uYW1lLAogICAgICAgICAgICAgICAgICAgICAgICAgdW5pdCA9IHNlbGYudjEubmFtZSwKICAgICAgICAgICAgICAgICAgICAgICAgIG1ldGFkYXRhPXNlbGYudjEubWV0YWRhdGEpCgogICAgZGVmIHNldChzZWxmLCB2YWx1ZSk6CiAgICAgICAgaW5zdHJ1bWVudF92YWx1ZSA9IHNlbGYuY29uc3RhbnQodmFsdWUpCiAgICAgICAgdjEuc2V0KGluc3RydW1lbnRfdmFsdWUpCgogICAgZGVmIGdldF9pbnN0cnVtZW50X3ZhbHVlKHNlbGYpOgogICAgICAgICIiIgogICAgICAgIFJldHVybnM6CiAgICAgICAgICAgIG51bWJlcjogdmFsdWUgYXQgd2hpY2ggdGhlIGF0dGFjaGVkIHBhcmFlbXRlciBpcyAoaS5lLiBkb2VzIG5vdCBhY2NvdW50IGZvciB0aGUgc2NhbGluZykKICAgICAgICAiIiIKICAgICAgICByZXR1cm4gdjEuZ2V0KCkKCg==</text>
+        <text encoding="base64">ZnJvbSBxY29kZXMgaW1wb3J0IFBhcmFtZXRlcgoKCmRlZiByZXNpdGl2ZV9nYWluKHZvdXQsIHYyLCByMCwgcjEsIHIyKToKICAgIHJldHVybiAodm91dCAtICh2MiAqIChyMCAvIChyMCArIHIyKSkpKSAqIChyMCArIHIxKSAvIHIwCgoKY2xhc3MgVm9sdGFnZURpdmlkZXIoUGFyYW1ldGVyKToKICAgICIiIgogICAgUmVzaXRpdmUgdm9sdGFnZSBkaXZpZGVyCgogICAgVG8gYmUgdXNlZCB3aGVuIHlvdSB1c2UgYSB2b2x0YWdlIGRpdmlkZXIgdG8gbWVhc3VyZSBhIHBhcmFtZXRlci4KICAgIFRoaXMgYWxsb3dzIGxvZ2dpbmcgb2YgeW91ciAiZGl2aWRlciIsIGFuZCB5b3UgZ2V0IHRoZSByaWdodCBkYXRhCiAgICBhbmQgbGFiZWwgYmFjay4KCiAgICAiIiIKCiAgICBkZWYgX19pbml0X18oc2VsZiwgdjE6IFN0YW5kYXJkUGFyYW1ldGVyLCByMSwgdjI6IFN0YW5kYXJkUGFyYW1ldGVyLCByMiwgcl9ncm91bmQpOgogICAgICAgIHNlbGYudjEgPSB2MQogICAgICAgIHNlbGYucjEgPSByMQogICAgICAgIHNlbGYudjIgPSB2MgogICAgICAgIHNlbGYudjJfdmFsdWUgPSBzZWxmLnYyLmdldCgpCiAgICAgICAgc2VsZi5yMiA9IHIyCiAgICAgICAgc2VsZi5yX2dyb3VuZCA9IHJfZ3JvdW5kCiAgICAgICAgIyBjYWxjdWxhdGUgc2NhbGUgZnVuY3Rpb24KICAgICAgICBzZWxmLmNvbnN0YW50ID0gbGFtYmRhIHg6IHJlc2l0aXZlX2dhaW4oeCwgc2VsZi52Ml92YWx1ZSwgcl9ncm91bmQsIHNlbGYucjEsIHNlbGYucjIpCiAgICAgICAgIyBuYW1lIHBhcmFtZXRlciB0byBiZSBzZXQKICAgICAgICBzdXBlcigpLl9faW5pdF9fKG5hbWU9c2VsZi52MS5uYW1lLAogICAgICAgICAgICAgICAgICAgICAgICAgIyBoYWNreSBidXQgd2F0aGV2ZXIKICAgICAgICAgICAgICAgICAgICAgICAgIGluc3RydW1lbnQ9c2VsZi52MS5faW5zdHJ1bWVudCwKICAgICAgICAgICAgICAgICAgICAgICAgIGxhYmVsPXNlbGYudjEubmFtZSwKICAgICAgICAgICAgICAgICAgICAgICAgIHVuaXQ9c2VsZi52MS5uYW1lLAogICAgICAgICAgICAgICAgICAgICAgICAgbWV0YWRhdGE9c2VsZi52MS5tZXRhZGF0YSkKCiAgICBkZWYgc2V0KHNlbGYsIHZhbHVlKToKICAgICAgICBpbnN0cnVtZW50X3ZhbHVlID0gc2VsZi5jb25zdGFudCh2YWx1ZSkKICAgICAgICBzZWxmLnYxLnNldChpbnN0cnVtZW50X3ZhbHVlKQoKICAgIGRlZiBnZXRfaW5zdHJ1bWVudF92YWx1ZShzZWxmKToKICAgICAgICAiIiIKICAgICAgICBSZXR1cm5zOgogICAgICAgICAgICBudW1iZXI6IHZhbHVlIGF0IHdoaWNoIHRoZSBhdHRhY2hlZCBwYXJhZW10ZXIgaXMgKGkuZS4gZG9lcyBub3QgYWNjb3VudCBmb3IgdGhlIHNjYWxpbmcpCiAgICAgICAgIiIiCiAgICAgICAgcmV0dXJuIHNlbGYudjEuZ2V0KCkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cgo=</text>
@@ -460,8 +460,8 @@
         <entry>set noerrorbells</entry>
         <entry>set visualbell</entry>
         <entry>vs</entry>
-        <entry>W</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
