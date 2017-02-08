@@ -3,11 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/loop.py" timestamp="1484909429648">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/utils/logger.py" timestamp="1482155116575">
         <mark key="[" line="0" column="19" />
         <mark key="]" line="0" column="19" />
@@ -37,11 +32,6 @@
         <mark key="^" line="318" column="19" />
         <mark key="." line="318" column="19" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/tests/data_mocks.py" timestamp="1486046158346">
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="0" />
-        <mark key="." line="71" column="0" />
-      </file>
       <file name="$USER_HOME$/OneDrive/Dokumenter/perf.py" timestamp="1479854125098">
         <mark key="'" line="79" column="20" />
         <mark key="[" line="79" column="20" />
@@ -55,17 +45,18 @@
         <mark key="." line="46" column="13" />
         <mark key="^" line="46" column="13" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument_drivers/devices.py" timestamp="1486570540207">
+      <file name="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument_drivers/devices.py" timestamp="1486578214525">
         <mark key="'" line="27" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="43" column="27" />
         <mark key="." line="7" column="29" />
         <mark key="^" line="7" column="29" />
       </file>
-      <file name="$USER_HOME$/Desktop/wrappers.py" timestamp="1485869860762">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument_drivers/tektronix/Keithley_2600.py" timestamp="1486578386344">
+        <mark key="[" line="26" column="71" />
+        <mark key="]" line="26" column="72" />
+        <mark key="." line="26" column="72" />
+        <mark key="^" line="26" column="72" />
       </file>
       <file name="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/data/format.py" timestamp="1480944070451">
         <mark key="[" line="74" column="31" />
@@ -117,7 +108,7 @@
         <mark key="." line="121" column="77" />
         <mark key="^" line="121" column="77" />
       </file>
-      <file name="/Dummy.txt" timestamp="1485276705464">
+      <file name="/Dummy.txt" timestamp="1486578455670">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/tests/test_format.py" timestamp="1480966170730">
@@ -156,11 +147,6 @@
         <mark key="]" line="14" column="90" />
         <mark key="." line="14" column="90" />
         <mark key="^" line="14" column="90" />
-      </file>
-      <file name="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/actions.py" timestamp="1485968118711">
-        <mark key="[" line="146" column="0" />
-        <mark key="]" line="146" column="0" />
-        <mark key="." line="146" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/instrument_drivers/ithaco/Ithaco_1211.py" timestamp="1486549295371">
         <mark key="'" line="54" column="19" />
@@ -220,12 +206,6 @@
         <mark key="]" line="47" column="23" />
         <mark key="." line="47" column="23" />
         <mark key="^" line="47" column="23" />
-      </file>
-      <file name="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/tests/test_location_provider.py" timestamp="1486047750620">
-        <mark key="'" line="27" column="9" />
-        <mark key="]" line="42" column="21" />
-        <mark key="." line="42" column="21" />
-        <mark key="^" line="42" column="21" />
       </file>
       <file name="$USER_HOME$/Downloads/param.py" timestamp="1485973004421">
         <mark key="'" line="37" column="16" />
@@ -368,11 +348,11 @@
       <jump line="27" column="0" filename="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument_drivers/devices.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBxY29kZXMgaW1wb3J0IFBhcmFtZXRlcgoKCmRlZiByZXNpdGl2ZV9nYWluKHZvdXQsIHYyLCByMCwgcjEsIHIyKToKICAgIHJldHVybiAodm91dCAtICh2MiAqIChyMCAvIChyMCArIHIyKSkpKSAqIChyMCArIHIxKSAvIHIwCgoKY2xhc3MgVm9sdGFnZURpdmlkZXIoUGFyYW1ldGVyKToKICAgICIiIgogICAgUmVzaXRpdmUgdm9sdGFnZSBkaXZpZGVyCgogICAgVG8gYmUgdXNlZCB3aGVuIHlvdSB1c2UgYSB2b2x0YWdlIGRpdmlkZXIgdG8gbWVhc3VyZSBhIHBhcmFtZXRlci4KICAgIFRoaXMgYWxsb3dzIGxvZ2dpbmcgb2YgeW91ciAiZGl2aWRlciIsIGFuZCB5b3UgZ2V0IHRoZSByaWdodCBkYXRhCiAgICBhbmQgbGFiZWwgYmFjay4KCiAgICAiIiIKCiAgICBkZWYgX19pbml0X18oc2VsZiwgdjE6IFN0YW5kYXJkUGFyYW1ldGVyLCByMSwgdjI6IFN0YW5kYXJkUGFyYW1ldGVyLCByMiwgcl9ncm91bmQpOgogICAgICAgIHNlbGYudjEgPSB2MQogICAgICAgIHNlbGYucjEgPSByMQogICAgICAgIHNlbGYudjIgPSB2MgogICAgICAgIHNlbGYudjJfdmFsdWUgPSBzZWxmLnYyLmdldCgpCiAgICAgICAgc2VsZi5yMiA9IHIyCiAgICAgICAgc2VsZi5yX2dyb3VuZCA9IHJfZ3JvdW5kCiAgICAgICAgIyBjYWxjdWxhdGUgc2NhbGUgZnVuY3Rpb24KICAgICAgICBzZWxmLmNvbnN0YW50ID0gbGFtYmRhIHg6IHJlc2l0aXZlX2dhaW4oeCwgc2VsZi52Ml92YWx1ZSwgcl9ncm91bmQsIHNlbGYucjEsIHNlbGYucjIpCiAgICAgICAgIyBuYW1lIHBhcmFtZXRlciB0byBiZSBzZXQKICAgICAgICBzdXBlcigpLl9faW5pdF9fKG5hbWU9c2VsZi52MS5uYW1lLAogICAgICAgICAgICAgICAgICAgICAgICAgIyBoYWNreSBidXQgd2F0aGV2ZXIKICAgICAgICAgICAgICAgICAgICAgICAgIGluc3RydW1lbnQ9c2VsZi52MS5faW5zdHJ1bWVudCwKICAgICAgICAgICAgICAgICAgICAgICAgIGxhYmVsPXNlbGYudjEubmFtZSwKICAgICAgICAgICAgICAgICAgICAgICAgIHVuaXQ9c2VsZi52MS5uYW1lLAogICAgICAgICAgICAgICAgICAgICAgICAgbWV0YWRhdGE9c2VsZi52MS5tZXRhZGF0YSkKCiAgICBkZWYgc2V0KHNlbGYsIHZhbHVlKToKICAgICAgICBpbnN0cnVtZW50X3ZhbHVlID0gc2VsZi5jb25zdGFudCh2YWx1ZSkKICAgICAgICBzZWxmLnYxLnNldChpbnN0cnVtZW50X3ZhbHVlKQoKICAgIGRlZiBnZXRfaW5zdHJ1bWVudF92YWx1ZShzZWxmKToKICAgICAgICAiIiIKICAgICAgICBSZXR1cm5zOgogICAgICAgICAgICBudW1iZXI6IHZhbHVlIGF0IHdoaWNoIHRoZSBhdHRhY2hlZCBwYXJhZW10ZXIgaXMgKGkuZS4gZG9lcyBub3QgYWNjb3VudCBmb3IgdGhlIHNjYWxpbmcpCiAgICAgICAgIiIiCiAgICAgICAgcmV0dXJuIHNlbGYudjEuZ2V0KCkK</text>
+      <register name="&quot;" type="4">
+        <text>8</text>
       </register>
       <register name="-" type="4">
-        <text>StandardParameter</text>
+        <text>8</text>
       </register>
       <register name="/" type="4">
         <text>set_sweep</text>
@@ -460,8 +440,8 @@
         <entry>set noerrorbells</entry>
         <entry>set visualbell</entry>
         <entry>vs</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
