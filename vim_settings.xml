@@ -48,6 +48,12 @@
         <mark key="." line="46" column="13" />
         <mark key="^" line="46" column="13" />
       </file>
+      <file name="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument_drivers/devices.py" timestamp="1486554771947">
+        <mark key="[" line="0" column="21" />
+        <mark key="]" line="0" column="27" />
+        <mark key="^" line="0" column="27" />
+        <mark key="." line="0" column="27" />
+      </file>
       <file name="$USER_HOME$/Desktop/wrappers.py" timestamp="1485869860762">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -180,6 +186,9 @@
       <file name="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/instrument_drivers/stanford_research/SR830.py" timestamp="1486548492647">
         <mark key="'" line="135" column="24" />
       </file>
+      <file name="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument/parameter.py" timestamp="1486554751390">
+        <mark key="'" line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument/sweep_values.py" timestamp="1485433716315">
         <mark key="'" line="38" column="36" />
         <mark key="[" line="186" column="0" />
@@ -233,9 +242,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="149" column="48" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
-      <jump line="173" column="48" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
-      <jump line="33" column="43" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
       <jump line="0" column="0" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/data/location.py" />
       <jump line="27" column="55" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/data/location.py" />
       <jump line="34" column="18" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/data/location.py" />
@@ -333,6 +339,9 @@
       <jump line="155" column="39" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/instrument_drivers/stanford_research/SR830.py" />
       <jump line="135" column="24" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/instrument_drivers/stanford_research/SR830.py" />
       <jump line="54" column="19" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/instrument_drivers/ithaco/Ithaco_1211.py" />
+      <jump line="347" column="0" filename="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument/parameter.py" />
+      <jump line="97" column="0" filename="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument/parameter.py" />
+      <jump line="16" column="0" filename="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument/parameter.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -342,7 +351,7 @@
         <text>MultiParameter</text>
       </register>
       <register name="/" type="4">
-        <text>cons</text>
+        <text>manual</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Y2xhc3MgQ3VycmVudFBhcmFtZXRlcihNdWx0aVBhcmFtZXRlcik6CiAgICAiIiIKICAgIEN1cnJlbnQgbWVhc3VyZW1lbnQgdmlhIGFuIEl0aGFjbyBwcmVhbXAgYW5kIGEgbWVhc3VyZWQgdm9sdGFnZS4KCiAgICBUbyBiZSB1c2VkIHdoZW4geW91IGZlZWQgYSBjdXJyZW50IGludG8gdGhlIEl0aGFjbywgc2VuZCB0aGUgSXRoYWNvJ3MKICAgIG91dHB1dCB2b2x0YWdlIHRvIGEgbG9ja2luIG9yIG90aGVyIHZvbHRhZ2UgYW1wbGlmaWVyLCBhbmQgeW91IGhhdmUKICAgIHRoZSB2b2x0YWdlIHJlYWRpbmcgZnJvbSB0aGF0IGFtcGxpZmllciBhcyBhIHFjb2RlcyBwYXJhbWV0ZXIuCgogICAgYGBDdXJyZW50UGFyYW1ldGVyLmdldCgpYGAgcmV0dXJucyBgYCh2b2x0YWdlX3JhdywgY3VycmVudClgYAoKICAgIEFyZ3M6CiAgICAgICAgbWVhc3VyZWRfcGFyYW0gKFBhcmFtZXRlcik6IGEgZ2V0dGFibGUgcGFyYW1ldGVyIHJldHVybmluZyB0aGUKICAgICAgICAgICAgdm9sdGFnZSByZWFkIGZyb20gdGhlIEl0aGFjbyBvdXRwdXQuCgogICAgICAgIGNfYW1wX2lucyAoSXRoYWNvXzEyMTEpOiBhbiBJdGhhY28gaW5zdGFuY2Ugd2hlcmUgeW91IG1hbnVhbGx5CiAgICAgICAgICAgIG1haW50YWluIHRoZSBwcmVzZW50IHNldHRpbmdzIG9mIHRoZSByZWFsIEl0aGFjbyBhbXAuCgogICAgICAgICAgICBOb3RlOiBpdCBzaG91bGQgYmUgcG9zc2libGUgdG8gdXNlIG90aGVyIGN1cnJlbnQgcHJlYW1wcywgaWYgdGhleQogICAgICAgICAgICBkZWZpbmUgcGFyYW1ldGVycyBgYHNlbnNgYCAoc2Vuc2l0aXZpdHksIGluIEEvViksIGBgc2Vuc19mYWN0b3JgYAogICAgICAgICAgICAoYW4gYWRkaXRpb25hbCBnYWluKSBhbmQgYGBpbnZlcnRgYCAoYm9vbCwgb3V0cHV0IGlzIGludmVydGVkKQoKICAgICAgICBuYW1lIChzdHIpOiB0aGUgbmFtZSBvZiB0aGUgY3VycmVudCBvdXRwdXQuIERlZmF1bHQgJ2N1cnInLgogICAgICAgICAgICBBbHNvIHVzZWQgYXMgdGhlIG5hbWUgb2YgdGhlIHdob2xlIHBhcmFtZXRlci4KICAgICIiIgogICAgZGVmIF9faW5pdF9fKHNlbGYsIG1lYXN1cmVkX3BhcmFtLCBjX2FtcF9pbnMsIG5hbWU9J2N1cnInKToKICAgICAgICBwX25hbWUgPSBtZWFzdXJlZF9wYXJhbS5uYW1lCgogICAgICAgIHN1cGVyKCkuX19pbml0X18obmFtZT1uYW1lLCBuYW1lcz0ocF9uYW1lKydfcmF3JywgbmFtZSksIHNoYXBlcz0oKCksICgpKSkKCiAgICAgICAgc2VsZi5fbWVhc3VyZWRfcGFyYW0gPSBtZWFzdXJlZF9wYXJhbQogICAgICAgIHNlbGYuX2luc3RydW1lbnQgPSBjX2FtcF9pbnMKCiAgICAgICAgcF9sYWJlbCA9IGdldGF0dHIobWVhc3VyZWRfcGFyYW0sICdsYWJlbCcsIE5vbmUpCiAgICAgICAgcF91bml0ID0gZ2V0YXR0cihtZWFzdXJlZF9wYXJhbSwgJ3VuaXQnLCBOb25lKQoKICAgICAgICBzZWxmLmxhYmVscyA9IChwX2xhYmVsLCAnQ3VycmVudCcpCiAgICAgICAgc2VsZi51bml0cyA9IChwX3VuaXQsICdBJykKCiAgICBkZWYgZ2V0KHNlbGYpOgogICAgICAgIHZvbHQgPSBzZWxmLl9tZWFzdXJlZF9wYXJhbS5nZXQoKQogICAgICAgIGN1cnJlbnQgPSAoc2VsZi5faW5zdHJ1bWVudC5zZW5zLmdldCgpICoKICAgICAgICAgICAgICAgICAgIHNlbGYuX2luc3RydW1lbnQuc2Vuc19mYWN0b3IuZ2V0KCkpICogdm9sdAoKICAgICAgICBpZiBzZWxmLl9pbnN0cnVtZW50LmludmVydC5nZXQoKToKICAgICAgICAgICAgY3VycmVudCAqPSAtMQoKICAgICAgICB2YWx1ZSA9ICh2b2x0LCBjdXJyZW50KQogICAgICAgIHNlbGYuX3NhdmVfdmFsKHZhbHVlKQogICAgICAgIHJldHVybiB2YWx1ZQo=</text>
@@ -375,19 +384,18 @@
         <text encoding="base64">ICAgIG5hbWUgPSBpbnN0X3NldC5sYWJlbCArIGluc3Rfc2V0Mi5sYWJlbAogICAgbmFtZSA9IG5hbWUgKyAiIi5qb2luKFtpLmxhYmVsIGZvciBpIGluIGluc3RfbWVhc10pCiAgICBuYW1lID0gbmFtZS5yZXBsYWNlKCIgIiwgIiIpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>cons</last-search>
+      <last-search>manual</last-search>
       <last-offset />
-      <last-pattern>cons</last-pattern>
+      <last-pattern>manual</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxTYWZlRm9ybWF0dGVyXD4=</entry>
         <entry encoding="base64">XDxmb3JtYXR0ZXJcPg==</entry>
         <entry encoding="base64">XDwpXD4=</entry>
         <entry>magic</entry>
@@ -407,6 +415,7 @@
         <entry encoding="base64">XDxuYW1lXD4=</entry>
         <entry>timecon</entry>
         <entry>cons</entry>
+        <entry>manual</entry>
       </history-search>
       <history-cmd>
         <entry>Wa</entry>
@@ -415,7 +424,6 @@
         <entry>q!</entry>
         <entry>buffers</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>q</entry>
         <entry>qa</entry>
         <entry>vs</entry>
         <entry>e</entry>
@@ -429,6 +437,7 @@
         <entry>Wqa</entry>
         <entry>W</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -490,6 +499,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
