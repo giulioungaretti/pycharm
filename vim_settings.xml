@@ -20,7 +20,8 @@
       <file name="/fragment.py" timestamp="1485971220869">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument_drivers/Harvard/Decadac.py" timestamp="1486555093092">
+      <file name="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument_drivers/Harvard/Decadac.py" timestamp="1486555165881">
+        <mark key="'" line="29" column="65" />
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="^" line="14" column="0" />
@@ -248,7 +249,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/data/location.py" />
       <jump line="27" column="55" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/data/location.py" />
       <jump line="34" column="18" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/data/location.py" />
       <jump line="41" column="6" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/data/location.py" />
@@ -348,6 +348,7 @@
       <jump line="347" column="0" filename="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument/parameter.py" />
       <jump line="97" column="0" filename="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument/parameter.py" />
       <jump line="16" column="0" filename="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument/parameter.py" />
+      <jump line="29" column="65" filename="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument_drivers/Harvard/Decadac.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
