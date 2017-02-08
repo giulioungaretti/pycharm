@@ -55,12 +55,12 @@
         <mark key="." line="46" column="13" />
         <mark key="^" line="46" column="13" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument_drivers/devices.py" timestamp="1486563835507">
+      <file name="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument_drivers/devices.py" timestamp="1486563902121">
         <mark key="'" line="14" column="25" />
-        <mark key="[" line="29" column="34" />
-        <mark key="]" line="30" column="7" />
-        <mark key="." line="30" column="7" />
-        <mark key="^" line="30" column="7" />
+        <mark key="[" line="31" column="93" />
+        <mark key="]" line="33" column="17" />
+        <mark key="." line="33" column="17" />
+        <mark key="^" line="33" column="17" />
       </file>
       <file name="$USER_HOME$/Desktop/wrappers.py" timestamp="1485869860762">
         <mark key="[" line="0" column="0" />
@@ -359,10 +359,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>v1:StandardParameter, r1, v2:StandardParameter, r2, r_ground</text>
+        <text>value</text>
       </register>
       <register name="-" type="4">
-        <text>ameter</text>
+        <text>value</text>
       </register>
       <register name="/" type="4">
         <text>_set</text>
@@ -371,31 +371,31 @@
         <text>v1:StandardParameter, r1, v2:StandardParameter, r2, r_ground</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIGNhbGN1bGF0ZSBzY2FsZSBmYWN0b3IK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmID0gdjEKICAgICAgICBzZWxmLnYxID0gdjEKICAgICAgICBzZWxmLnIxID0gcjEKICAgICAgICBzZWxmLnYyID0gdjIKICAgICAgICBzZWxmLnYyX3ZhbHVlID0gc2VsZi52Mi5nZXQoKQogICAgICAgIHNlbGYucjIgPSByMgogICAgICAgIHNlbGYucl9ncm91bmQgPSByX2dyb3VuZAogICAgICAgICMgY2FsY3VsYXRlIHNjYWxlIGZ1bmN0aW9uCiAgICAgICAgc2VsZi5jb25zdGFudCA9IGxhbWJkYSB4OiByZXNpdGl2ZV9nYWluKHgsIHNlbGYudjJfdmFsdWUsIHJfZ3JvdW5kLCBzZWxmLnIxLCBzZWxmLnIyKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIGNhbGN1bGF0ZSBzY2FsZSBmYWN0b3IK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBnZXRhdHRyKHNlbGYudjIsICJnZXQiLCBOb25lKToKICAgICAgICAgICAgcmFpc2UgVHlwZUVycm9yKCJQYXJhbWV0ZXIge30sIGRvZXMgbm90IGhhdmUgZ2V0IG1ldGhvZCIuZm9ybWF0KHYyLm5hbWUpKQogICAgICAgIHRyeToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi52MiA9IHYyCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBnZXRhdHRyKHNlbGYudjIsICJnZXQiLCBOb25lKToKICAgICAgICAgICAgcmFpc2UgVHlwZUVycm9yKCJQYXJhbWV0ZXIge30sIGRvZXMgbm90IGhhdmUgZ2V0IG1ldGhvZCIuZm9ybWF0KHYyLm5hbWUpKQogICAgICAgIHRyeToK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi52MiA9IHYyCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZWYgcmVzaXRpdmVfZ2Fpbih2b3V0LCB2MCwgdjEsIHIwLCByMSk6CiAgICAgICAgICAgIHJldHVybiAodm91dCAtICh2MioocjAvKHIwK3IyKSkpKSAqIChyMCtyMSkvcjAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWYgcmVzaXRpdmVfZ2Fpbih2b3V0LCB2MCwgdjEsIHIwLCByMSk6CiAgICAgICAgICAgIHJldHVybiAodm91dCAtICh2MioocjAvKHIwK3IyKSkpKSAqIChyMCtyMSkvcjAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmxhYmVscyA9IChwX2xhYmVsLCAnQ3VycmVudCcpCiAgICAgICAgc2VsZi51bml0cyA9IChwX3VuaXQsICdBJykK</text>
+        <text encoding="base64">ICAgICAgICB2Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -449,9 +449,9 @@
         <entry>q</entry>
         <entry>set noerrorbells</entry>
         <entry>set visualbell</entry>
-        <entry>W</entry>
         <entry>vs</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
