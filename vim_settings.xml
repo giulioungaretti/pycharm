@@ -55,12 +55,12 @@
         <mark key="." line="46" column="13" />
         <mark key="^" line="46" column="13" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument_drivers/devices.py" timestamp="1486563902121">
-        <mark key="'" line="14" column="25" />
-        <mark key="[" line="31" column="93" />
-        <mark key="]" line="33" column="17" />
-        <mark key="." line="33" column="17" />
-        <mark key="^" line="33" column="17" />
+      <file name="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument_drivers/devices.py" timestamp="1486566039293">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="37" column="0" />
+        <mark key="^" line="38" column="99" />
       </file>
       <file name="$USER_HOME$/Desktop/wrappers.py" timestamp="1485869860762">
         <mark key="[" line="0" column="0" />
@@ -200,14 +200,14 @@
       <file name="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/instrument_drivers/stanford_research/SR830.py" timestamp="1486548492647">
         <mark key="'" line="135" column="24" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument/parameter.py" timestamp="1486564967465">
-        <mark key="'" line="846" column="12" />
+      <file name="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument/parameter.py" timestamp="1486565875189">
+        <mark key="'" line="848" column="18" />
         <mark key="[" line="850" column="36" />
         <mark key="]" line="850" column="39" />
         <mark key="." line="850" column="39" />
         <mark key="^" line="850" column="39" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument/sweep_values.py" timestamp="1485433716315">
+      <file name="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument/sweep_values.py" timestamp="1486565789827">
         <mark key="'" line="38" column="36" />
         <mark key="[" line="186" column="0" />
         <mark key="]" line="186" column="0" />
@@ -266,15 +266,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/tests/instrument_mocks.py" />
-      <jump line="253" column="0" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/tests/instrument_mocks.py" />
-      <jump line="299" column="47" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/tests/instrument_mocks.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/utils/wrappers.py" />
-      <jump line="242" column="21" filename="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/utils/wrappers.py" />
-      <jump line="72" column="14" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
-      <jump line="221" column="0" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
-      <jump line="78" column="0" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
-      <jump line="83" column="46" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
       <jump line="92" column="42" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
       <jump line="131" column="0" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
       <jump line="137" column="38" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
@@ -320,7 +311,6 @@
       <jump line="18" column="63" filename="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument/parameter.py" />
       <jump line="22" column="54" filename="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument/parameter.py" />
       <jump line="30" column="56" filename="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument/parameter.py" />
-      <jump line="39" column="60" filename="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument/parameter.py" />
       <jump line="40" column="26" filename="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument/parameter.py" />
       <jump line="75" column="41" filename="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument/parameter.py" />
       <jump line="81" column="42" filename="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument/parameter.py" />
@@ -332,7 +322,6 @@
       <jump line="874" column="10" filename="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument/parameter.py" />
       <jump line="275" column="6" filename="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument/parameter.py" />
       <jump line="41" column="15" filename="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument/parameter.py" />
-      <jump line="76" column="40" filename="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument/parameter.py" />
       <jump line="775" column="59" filename="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument/parameter.py" />
       <jump line="827" column="58" filename="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument/parameter.py" />
       <jump line="881" column="33" filename="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument/parameter.py" />
@@ -340,7 +329,6 @@
       <jump line="950" column="62" filename="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument/parameter.py" />
       <jump line="960" column="55" filename="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument/parameter.py" />
       <jump line="815" column="17" filename="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument/parameter.py" />
-      <jump line="848" column="18" filename="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument/parameter.py" />
       <jump line="850" column="16" filename="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument/parameter.py" />
       <jump line="851" column="71" filename="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument/parameter.py" />
       <jump line="853" column="16" filename="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument/parameter.py" />
@@ -366,64 +354,72 @@
       <jump line="799" column="40" filename="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument/parameter.py" />
       <jump line="838" column="8" filename="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument/parameter.py" />
       <jump line="846" column="12" filename="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument/parameter.py" />
+      <jump line="362" column="25" filename="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument/parameter.py" />
+      <jump line="1061" column="4" filename="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument/parameter.py" />
+      <jump line="1171" column="4" filename="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument/parameter.py" />
+      <jump line="711" column="0" filename="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument/parameter.py" />
+      <jump line="37" column="2" filename="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument/parameter.py" />
+      <jump line="39" column="4" filename="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument/parameter.py" />
+      <jump line="76" column="40" filename="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument/parameter.py" />
+      <jump line="841" column="27" filename="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument/parameter.py" />
+      <jump line="849" column="18" filename="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument/parameter.py" />
+      <jump line="848" column="18" filename="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument/parameter.py" />
+      <jump line="16" column="19" filename="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument_drivers/devices.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument_drivers/devices.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>opion</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSBxY29kZXMgaW1wb3J0IFBhcmFtZXRlciwgU3RhbmRhcmRQYXJhbWV0ZXIKCmRlZiByZXNpdGl2ZV9nYWluKHZvdXQsIHYyLCByMCwgcjEsIHIyKToKICAgIHJldHVybiAodm91dCAtICh2MioocjAvKHIwK3IyKSkpKSAqIChyMCtyMSkvcjAKCmNsYXNzIFZvbHRhZ2VEaXZpZGVyKFN0YW5kYXJkUGFyYW1ldGVyKToKICAgICIiIgogICAgUmVzaXRpdmUgdm9sdGFnZSBkaXZpZGVyCgogICAgVG8gYmUgdXNlZCB3aGVuIHlvdSB1c2UgYSB2b2x0YWdlIGRpdmlkZXIgdG8gbWVzYXVyZSBhIHBhcmFtZXRlci4KICAgIFRoaXMgYWxsb3dzIGxvZ2dpbmcgb2YgeW91ciAiZGl2aWRlciIsIGFuZCB5b3UgZ2V0IHRoZSByaWdodCBkYXRhCiAgICBhbmQgbGFiZWwgYmFjay4KCiAgICAiIiIKICAgIGRlZiBfX2luaXRfXyhzZWxmLCB2MTpTdGFuZGFyZFBhcmFtZXRlciwgcjEsIHYyOlN0YW5kYXJkUGFyYW1ldGVyLCByMiwgcl9ncm91bmQpOgogICAgICAgIHNlbGYudjEgPSB2MQogICAgICAgIHNlbGYucjEgPSByMQogICAgICAgIHNlbGYudjIgPSB2MgogICAgICAgIHNlbGYudjJfdmFsdWUgPSBzZWxmLnYyLmdldCgpCiAgICAgICAgc2VsZi5yMiA9IHIyCiAgICAgICAgc2VsZi5yX2dyb3VuZCA9IHJfZ3JvdW5kCiAgICAgICAgIyBjYWxjdWxhdGUgc2NhbGUgZnVuY3Rpb24KICAgICAgICBzZWxmLmNvbnN0YW50ID0gbGFtYmRhIHg6IHJlc2l0aXZlX2dhaW4oeCwgc2VsZi52Ml92YWx1ZSwgcl9ncm91bmQsIHNlbGYucjEsIHNlbGYucjIpCiAgICAgICAjIG5hbWUgcGFyYW1ldGVyIHRvIGJlIHNldAogICAgICAgIHN1cGVyKCkuX19pbml0X18obmFtZT1zZWxmLnYxLm5hbWUsCiAgICAgICAgICAgICAgICAgICAgICAgICAjIGhhY2t5IGJ1dCB3YXRoZXZlcgogICAgICAgICAgICAgICAgICAgICAgICAgaW5zdHJ1bWVudD1zZWxmLnYxLl9pbnN0cnVtZW50LAogICAgICAgICAgICAgICAgICAgICAgICAgbGFiZWw9c2VsZi52MS5uYW1lLAogICAgICAgICAgICAgICAgICAgICAgICAgdW5pdCA9IHNlbGYudjEubmFtZSwKICAgICAgICAgICAgICAgICAgICAgICAgIG1ldGFkYXRhPXNlbGYudjEubWV0YWRhdGEpCgogICAgZGVmIHNldChzZWxmLCB2YWx1ZSk6CiAgICAgICAgaW5zdHJ1bWVudF92YWx1ZSA9IHNlbGYuY29uc3RhbnQodmFsdWUpCiAgICAgICAgdjEuc2V0KGluc3RydW1lbnRfdmFsdWUpCgogICAgZGVmIGdldF9pbnN0cnVtZW50X3ZhbHVlKHNlbGYpOgogICAgICAgICIiIgogICAgICAgIFJldHVybnM6CiAgICAgICAgICAgIG51bWJlcjogdmFsdWUgYXQgd2hpY2ggdGhlIGF0dGFjaGVkIHBhcmFlbXRlciBpcyAoaS5lLiBkb2VzIG5vdCBhY2NvdW50IGZvciB0aGUgc2NhbGluZykKICAgICAgICAiIiIKICAgICAgICByZXR1cm4gdjEuZ2V0KCkKCg==</text>
       </register>
       <register name="-" type="4">
-        <text>opion</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
-        <text>_set</text>
+        <text>set_sweep</text>
       </register>
-      <register name="0" type="4">
-        <text>v1:StandardParameter, r1, v2:StandardParameter, r2, r_ground</text>
+      <register name="0" type="2">
+        <text encoding="base64">ZnJvbSBxY29kZXMgaW1wb3J0IFBhcmFtZXRlciwgU3RhbmRhcmRQYXJhbWV0ZXIKCmRlZiByZXNpdGl2ZV9nYWluKHZvdXQsIHYyLCByMCwgcjEsIHIyKToKICAgIHJldHVybiAodm91dCAtICh2MioocjAvKHIwK3IyKSkpKSAqIChyMCtyMSkvcjAKCmNsYXNzIFZvbHRhZ2VEaXZpZGVyKFN0YW5kYXJkUGFyYW1ldGVyKToKICAgICIiIgogICAgUmVzaXRpdmUgdm9sdGFnZSBkaXZpZGVyCgogICAgVG8gYmUgdXNlZCB3aGVuIHlvdSB1c2UgYSB2b2x0YWdlIGRpdmlkZXIgdG8gbWVzYXVyZSBhIHBhcmFtZXRlci4KICAgIFRoaXMgYWxsb3dzIGxvZ2dpbmcgb2YgeW91ciAiZGl2aWRlciIsIGFuZCB5b3UgZ2V0IHRoZSByaWdodCBkYXRhCiAgICBhbmQgbGFiZWwgYmFjay4KCiAgICAiIiIKICAgIGRlZiBfX2luaXRfXyhzZWxmLCB2MTpTdGFuZGFyZFBhcmFtZXRlciwgcjEsIHYyOlN0YW5kYXJkUGFyYW1ldGVyLCByMiwgcl9ncm91bmQpOgogICAgICAgIHNlbGYudjEgPSB2MQogICAgICAgIHNlbGYucjEgPSByMQogICAgICAgIHNlbGYudjIgPSB2MgogICAgICAgIHNlbGYudjJfdmFsdWUgPSBzZWxmLnYyLmdldCgpCiAgICAgICAgc2VsZi5yMiA9IHIyCiAgICAgICAgc2VsZi5yX2dyb3VuZCA9IHJfZ3JvdW5kCiAgICAgICAgIyBjYWxjdWxhdGUgc2NhbGUgZnVuY3Rpb24KICAgICAgICBzZWxmLmNvbnN0YW50ID0gbGFtYmRhIHg6IHJlc2l0aXZlX2dhaW4oeCwgc2VsZi52Ml92YWx1ZSwgcl9ncm91bmQsIHNlbGYucjEsIHNlbGYucjIpCiAgICAgICAjIG5hbWUgcGFyYW1ldGVyIHRvIGJlIHNldAogICAgICAgIHN1cGVyKCkuX19pbml0X18obmFtZT1zZWxmLnYxLm5hbWUsCiAgICAgICAgICAgICAgICAgICAgICAgICAjIGhhY2t5IGJ1dCB3YXRoZXZlcgogICAgICAgICAgICAgICAgICAgICAgICAgaW5zdHJ1bWVudD1zZWxmLnYxLl9pbnN0cnVtZW50LAogICAgICAgICAgICAgICAgICAgICAgICAgbGFiZWw9c2VsZi52MS5uYW1lLAogICAgICAgICAgICAgICAgICAgICAgICAgdW5pdCA9IHNlbGYudjEubmFtZSwKICAgICAgICAgICAgICAgICAgICAgICAgIG1ldGFkYXRhPXNlbGYudjEubWV0YWRhdGEpCgogICAgZGVmIHNldChzZWxmLCB2YWx1ZSk6CiAgICAgICAgaW5zdHJ1bWVudF92YWx1ZSA9IHNlbGYuY29uc3RhbnQodmFsdWUpCiAgICAgICAgdjEuc2V0KGluc3RydW1lbnRfdmFsdWUpCgogICAgZGVmIGdldF9pbnN0cnVtZW50X3ZhbHVlKHNlbGYpOgogICAgICAgICIiIgogICAgICAgIFJldHVybnM6CiAgICAgICAgICAgIG51bWJlcjogdmFsdWUgYXQgd2hpY2ggdGhlIGF0dGFjaGVkIHBhcmFlbXRlciBpcyAoaS5lLiBkb2VzIG5vdCBhY2NvdW50IGZvciB0aGUgc2NhbGluZykKICAgICAgICAiIiIKICAgICAgICByZXR1cm4gdjEuZ2V0KCkKCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgVE9ETyhnaXVsaW91bgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmID0gdjEKICAgICAgICBzZWxmLnYxID0gdjEKICAgICAgICBzZWxmLnIxID0gcjEKICAgICAgICBzZWxmLnYyID0gdjIKICAgICAgICBzZWxmLnYyX3ZhbHVlID0gc2VsZi52Mi5nZXQoKQogICAgICAgIHNlbGYucjIgPSByMgogICAgICAgIHNlbGYucl9ncm91bmQgPSByX2dyb3VuZAogICAgICAgICMgY2FsY3VsYXRlIHNjYWxlIGZ1bmN0aW9uCiAgICAgICAgc2VsZi5jb25zdGFudCA9IGxhbWJkYSB4OiByZXNpdGl2ZV9nYWluKHgsIHNlbGYudjJfdmFsdWUsIHJfZ3JvdW5kLCBzZWxmLnIxLCBzZWxmLnIyKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIGNhbGN1bGF0ZSBzY2FsZSBmYWN0b3IK</text>
+        <text encoding="base64">ICAgICAgICAiIiIKCiAgICAgICAgIiIiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm46Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBnZXRhdHRyKHNlbGYudjIsICJnZXQiLCBOb25lKToKICAgICAgICAgICAgcmFpc2UgVHlwZUVycm9yKCJQYXJhbWV0ZXIge30sIGRvZXMgbm90IGhhdmUgZ2V0IG1ldGhvZCIuZm9ybWF0KHYyLm5hbWUpKQogICAgICAgIHRyeToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi52MiA9IHYyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYudjEuKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZWYgcmVzaXRpdmVfZ2Fpbih2b3V0LCB2MCwgdjEsIHIwLCByMSk6CiAgICAgICAgICAgIHJldHVybiAodm91dCAtICh2MioocjAvKHIwK3IyKSkpKSAqIChyMCtyMSkvcjAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>_set</last-search>
+      <last-search>set_sweep</last-search>
       <last-offset />
-      <last-pattern>_set</last-pattern>
+      <last-pattern>set_sweep</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxGcmVxdWVuY3lTd2VlcFw+</entry>
-        <entry>names=</entry>
-        <entry>shape</entry>
-        <entry>arb</entry>
         <entry>arb.</entry>
         <entry>title</entry>
         <entry>labels</entry>
@@ -438,8 +434,12 @@
         <entry>StandardPara</entry>
         <entry>parameter</entry>
         <entry>self._set</entry>
-        <entry>set_sweep</entry>
         <entry>_set</entry>
+        <entry>def set(</entry>
+        <entry>stadnard</entry>
+        <entry>standardP</entry>
+        <entry>StandardPar</entry>
+        <entry>set_sweep</entry>
       </history-search>
       <history-cmd>
         <entry>Q</entry>
