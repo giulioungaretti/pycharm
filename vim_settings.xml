@@ -77,8 +77,8 @@
         <mark key="." line="96" column="0" />
         <mark key="^" line="94" column="25" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" timestamp="1486578732686">
-        <mark key="'" line="1" column="0" />
+      <file name="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" timestamp="1486628622513">
+        <mark key="'" line="227" column="21" />
         <mark key="[" line="167" column="26" />
         <mark key="]" line="167" column="34" />
         <mark key="." line="167" column="34" />
@@ -246,7 +246,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="137" column="38" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
       <jump line="90" column="0" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/instrument_drivers/ithaco/Ithaco_1211.py" />
       <jump line="49" column="6" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/instrument_drivers/rohde_schwarz/ZNB20.py" />
       <jump line="34" column="0" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/instrument_drivers/rohde_schwarz/ZNB20.py" />
@@ -346,6 +345,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument_drivers/devices.py" />
       <jump line="43" column="0" filename="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument_drivers/devices.py" />
       <jump line="27" column="0" filename="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument_drivers/devices.py" />
+      <jump line="227" column="21" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
