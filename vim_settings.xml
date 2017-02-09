@@ -77,12 +77,12 @@
         <mark key="." line="96" column="0" />
         <mark key="^" line="94" column="25" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" timestamp="1486141876751">
+      <file name="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" timestamp="1486578732686">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="79" column="35" />
-        <mark key="]" line="79" column="36" />
-        <mark key="." line="79" column="36" />
-        <mark key="^" line="79" column="36" />
+        <mark key="[" line="167" column="26" />
+        <mark key="]" line="167" column="34" />
+        <mark key="." line="167" column="34" />
+        <mark key="^" line="167" column="34" />
       </file>
       <file name="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/tests/test.py" timestamp="1485421168341">
         <mark key="[" line="8" column="0" />
@@ -349,16 +349,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>8</text>
+        <text>names</text>
       </register>
       <register name="-" type="4">
-        <text>8</text>
+        <text>names</text>
       </register>
       <register name="/" type="4">
         <text>set_sweep</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBxY29kZXMgaW1wb3J0IFBhcmFtZXRlcgoKCmRlZiByZXNpdGl2ZV9nYWluKHZvdXQsIHYyLCByMCwgcjEsIHIyKToKICAgIHJldHVybiAodm91dCAtICh2MiAqIChyMCAvIChyMCArIHIyKSkpKSAqIChyMCArIHIxKSAvIHIwCgoKY2xhc3MgVm9sdGFnZURpdmlkZXIoUGFyYW1ldGVyKToKICAgICIiIgogICAgUmVzaXRpdmUgdm9sdGFnZSBkaXZpZGVyCgogICAgVG8gYmUgdXNlZCB3aGVuIHlvdSB1c2UgYSB2b2x0YWdlIGRpdmlkZXIgdG8gbWVhc3VyZSBhIHBhcmFtZXRlci4KICAgIFRoaXMgYWxsb3dzIGxvZ2dpbmcgb2YgeW91ciAiZGl2aWRlciIsIGFuZCB5b3UgZ2V0IHRoZSByaWdodCBkYXRhCiAgICBhbmQgbGFiZWwgYmFjay4KCiAgICAiIiIKCiAgICBkZWYgX19pbml0X18oc2VsZiwgdjE6IFN0YW5kYXJkUGFyYW1ldGVyLCByMSwgdjI6IFN0YW5kYXJkUGFyYW1ldGVyLCByMiwgcl9ncm91bmQpOgogICAgICAgIHNlbGYudjEgPSB2MQogICAgICAgIHNlbGYucjEgPSByMQogICAgICAgIHNlbGYudjIgPSB2MgogICAgICAgIHNlbGYudjJfdmFsdWUgPSBzZWxmLnYyLmdldCgpCiAgICAgICAgc2VsZi5yMiA9IHIyCiAgICAgICAgc2VsZi5yX2dyb3VuZCA9IHJfZ3JvdW5kCiAgICAgICAgIyBjYWxjdWxhdGUgc2NhbGUgZnVuY3Rpb24KICAgICAgICBzZWxmLmNvbnN0YW50ID0gbGFtYmRhIHg6IHJlc2l0aXZlX2dhaW4oeCwgc2VsZi52Ml92YWx1ZSwgcl9ncm91bmQsIHNlbGYucjEsIHNlbGYucjIpCiAgICAgICAgIyBuYW1lIHBhcmFtZXRlciB0byBiZSBzZXQKICAgICAgICBzdXBlcigpLl9faW5pdF9fKG5hbWU9c2VsZi52MS5uYW1lLAogICAgICAgICAgICAgICAgICAgICAgICAgIyBoYWNreSBidXQgd2F0aGV2ZXIKICAgICAgICAgICAgICAgICAgICAgICAgIGluc3RydW1lbnQ9c2VsZi52MS5faW5zdHJ1bWVudCwKICAgICAgICAgICAgICAgICAgICAgICAgIGxhYmVsPXNlbGYudjEubmFtZSwKICAgICAgICAgICAgICAgICAgICAgICAgIHVuaXQ9c2VsZi52MS5uYW1lLAogICAgICAgICAgICAgICAgICAgICAgICAgbWV0YWRhdGE9c2VsZi52MS5tZXRhZGF0YSkKCiAgICBkZWYgc2V0KHNlbGYsIHZhbHVlKToKICAgICAgICBpbnN0cnVtZW50X3ZhbHVlID0gc2VsZi5jb25zdGFudCh2YWx1ZSkKICAgICAgICBzZWxmLnYxLnNldChpbnN0cnVtZW50X3ZhbHVlKQoKICAgIGRlZiBnZXRfaW5zdHJ1bWVudF92YWx1ZShzZWxmKToKICAgICAgICAiIiIKICAgICAgICBSZXR1cm5zOgogICAgICAgICAgICBudW1iZXI6IHZhbHVlIGF0IHdoaWNoIHRoZSBhdHRhY2hlZCBwYXJhZW10ZXIgaXMgKGkuZS4gZG9lcyBub3QgYWNjb3VudCBmb3IgdGhlIHNjYWxpbmcpCiAgICAgICAgIiIiCiAgICAgICAgcmV0dXJuIHNlbGYudjEuZ2V0KCkK</text>
+        <text encoding="base64">ICAgICAgICBpZiBnZXRhdHRyKGksICJuYW1lcyIsIEZhbHNlKToKICAgICAgICAgICAgIyBkZWFsIHdpdGggbXVsdGkgZGltZW5zdGlvbmFsIHBhcmFtZXRlcgogICAgICAgICAgICBmb3IgaywgbmFtZSBpbiBlbnVtZXJhdGUoaS5uYW1lcyk6CiAgICAgICAgICAgICAgICBpbnN0X21lYXNfbmFtZSA9ICJ7fV97fSIuZm9ybWF0KGkuX2luc3RydW1lbnQubmFtZSwgbmFtZSkKICAgICAgICAgICAgICAgIHBsb3QuYWRkKGdldGF0dHIoZGF0YSwgaW5zdF9tZWFzX25hbWUpLCBzdWJwbG90PWogKyBrICsgMSkKICAgICAgICAgICAgICAgIHBsb3Quc3VicGxvdHNbaitrXS5zaG93R3JpZChUcnVlLCBUcnVlKQogICAgICAgICAgICAgICAgaWYgaiA9PSAwOgogICAgICAgICAgICAgICAgICAgIHBsb3Quc3VicGxvdHNbMF0uc2V0VGl0bGUodGl0bGUpCiAgICAgICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgICAgIHBsb3Quc3VicGxvdHNbaitrXS5zZXRUaXRsZSgiIikK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cgo=</text>
