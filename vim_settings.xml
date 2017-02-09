@@ -52,6 +52,12 @@
         <mark key="." line="7" column="29" />
         <mark key="^" line="7" column="29" />
       </file>
+      <file name="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/instrument_drivers/yokogawa/GS200.py" timestamp="1486648900579">
+        <mark key="'" line="14" column="12" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument_drivers/tektronix/Keithley_2600.py" timestamp="1486578386344">
         <mark key="[" line="26" column="71" />
         <mark key="]" line="26" column="72" />
@@ -104,7 +110,7 @@
         <mark key="." line="121" column="77" />
         <mark key="^" line="121" column="77" />
       </file>
-      <file name="/Dummy.txt" timestamp="1486578455670">
+      <file name="/Dummy.txt" timestamp="1486649363744">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/tests/test_format.py" timestamp="1480966170730">
@@ -149,9 +155,6 @@
         <mark key="[" line="6" column="0" />
         <mark key="]" line="54" column="19" />
         <mark key="." line="41" column="0" />
-      </file>
-      <file name="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/plots/qcmatplotlib.py" timestamp="1486646356276">
-        <mark key="'" line="242" column="13" />
       </file>
       <file name="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/logger_setup.py" timestamp="1482156968484">
         <mark key="'" line="20" column="54" />
@@ -245,12 +248,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="170" column="0" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
-      <jump line="172" column="29" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
-      <jump line="177" column="61" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
-      <jump line="201" column="85" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
-      <jump line="205" column="62" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
-      <jump line="8" column="32" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
       <jump line="52" column="8" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
       <jump line="0" column="0" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
       <jump line="117" column="29" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
@@ -345,61 +342,66 @@
       <jump line="320" column="48" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/plots/qcmatplotlib.py" />
       <jump line="329" column="17" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/plots/qcmatplotlib.py" />
       <jump line="242" column="13" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/plots/qcmatplotlib.py" />
+      <jump line="26" column="10" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/instrument_drivers/yokogawa/GS200.py" />
+      <jump line="24" column="12" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/instrument_drivers/yokogawa/GS200.py" />
+      <jump line="37" column="27" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/instrument_drivers/yokogawa/GS200.py" />
+      <jump line="11" column="6" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/instrument_drivers/yokogawa/GS200.py" />
+      <jump line="18" column="38" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/instrument_drivers/yokogawa/GS200.py" />
+      <jump line="14" column="12" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/instrument_drivers/yokogawa/GS200.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwbG90LnN1YnBsb3RzWzBdLnNldFRpdGxlKHRpdGxlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>names</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfY2lkXD4=</text>
+        <text>reset</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwbG90LnN1YnBsb3RzWzBdLnNldFRpdGxlKHRpdGxlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAiIiIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAiIiIKCiAgICAgICAgQXJnczoKICAgICAgICAgICAgbmFtZToKICAgICAgICAgICAgYWRkcmVzczoKICAgICAgICAgICAgcmVzZXQ6CiAgICAgICAgICAgICoqa3dhcmdzOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIKCiAgICAgICAgIiIiCg==</text>
+        <text encoding="base64">ICAgICAgcmVzZXQ6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm46Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYudjEuKQo=</text>
+        <text encoding="base64">ICAgICAgICAiIiIKCiAgICAgICAgIiIiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICMK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm46Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfY2lkXD4=</last-search>
+      <last-search>reset</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfY2lkXD4=</last-pattern>
+      <last-pattern>reset</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>title</entry>
         <entry>labels</entry>
         <entry>name</entry>
         <entry>missing</entry>
@@ -419,6 +421,7 @@
         <entry>StandardPar</entry>
         <entry>set_sweep</entry>
         <entry encoding="base64">XDxfY2lkXD4=</entry>
+        <entry>reset</entry>
       </history-search>
       <history-cmd>
         <entry>Q</entry>
