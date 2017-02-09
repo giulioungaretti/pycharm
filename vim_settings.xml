@@ -77,8 +77,10 @@
         <mark key="." line="96" column="0" />
         <mark key="^" line="94" column="25" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" timestamp="1486628622513">
+      <file name="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" timestamp="1486631178867">
         <mark key="'" line="230" column="21" />
+        <mark key="[" line="185" column="20" />
+        <mark key="]" line="185" column="51" />
       </file>
       <file name="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/tests/test.py" timestamp="1485421168341">
         <mark key="[" line="8" column="0" />
@@ -344,8 +346,8 @@
       <jump line="227" column="21" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>names</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwbG90LnN1YnBsb3RzWzBdLnNldFRpdGxlKHRpdGxlKQo=</text>
       </register>
       <register name="-" type="4">
         <text>names</text>
@@ -354,7 +356,7 @@
         <text>set_sweep</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBnZXRhdHRyKGksICJuYW1lcyIsIEZhbHNlKToKICAgICAgICAgICAgIyBkZWFsIHdpdGggbXVsdGkgZGltZW5zdGlvbmFsIHBhcmFtZXRlcgogICAgICAgICAgICBmb3IgaywgbmFtZSBpbiBlbnVtZXJhdGUoaS5uYW1lcyk6CiAgICAgICAgICAgICAgICBpbnN0X21lYXNfbmFtZSA9ICJ7fV97fSIuZm9ybWF0KGkuX2luc3RydW1lbnQubmFtZSwgbmFtZSkKICAgICAgICAgICAgICAgIHBsb3QuYWRkKGdldGF0dHIoZGF0YSwgaW5zdF9tZWFzX25hbWUpLCBzdWJwbG90PWogKyBrICsgMSkKICAgICAgICAgICAgICAgIHBsb3Quc3VicGxvdHNbaitrXS5zaG93R3JpZChUcnVlLCBUcnVlKQogICAgICAgICAgICAgICAgaWYgaiA9PSAwOgogICAgICAgICAgICAgICAgICAgIHBsb3Quc3VicGxvdHNbMF0uc2V0VGl0bGUodGl0bGUpCiAgICAgICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgICAgIHBsb3Quc3VicGxvdHNbaitrXS5zZXRUaXRsZSgiIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwbG90LnN1YnBsb3RzWzBdLnNldFRpdGxlKHRpdGxlKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cgo=</text>
