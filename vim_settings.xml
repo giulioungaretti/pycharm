@@ -150,6 +150,9 @@
         <mark key="]" line="54" column="19" />
         <mark key="." line="41" column="0" />
       </file>
+      <file name="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/plots/qcmatplotlib.py" timestamp="1486646356276">
+        <mark key="'" line="242" column="13" />
+      </file>
       <file name="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/logger_setup.py" timestamp="1482156968484">
         <mark key="'" line="20" column="54" />
         <mark key="[" line="0" column="0" />
@@ -242,10 +245,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="90" column="0" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/instrument_drivers/ithaco/Ithaco_1211.py" />
-      <jump line="49" column="6" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/instrument_drivers/rohde_schwarz/ZNB20.py" />
-      <jump line="34" column="0" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/instrument_drivers/rohde_schwarz/ZNB20.py" />
-      <jump line="66" column="0" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
       <jump line="170" column="0" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
       <jump line="172" column="29" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
       <jump line="177" column="61" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
@@ -342,6 +341,10 @@
       <jump line="43" column="0" filename="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument_drivers/devices.py" />
       <jump line="27" column="0" filename="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument_drivers/devices.py" />
       <jump line="227" column="21" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
+      <jump line="319" column="16" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/plots/qcmatplotlib.py" />
+      <jump line="320" column="48" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/plots/qcmatplotlib.py" />
+      <jump line="329" column="17" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/plots/qcmatplotlib.py" />
+      <jump line="242" column="13" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/plots/qcmatplotlib.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -351,7 +354,7 @@
         <text>names</text>
       </register>
       <register name="/" type="4">
-        <text>set_sweep</text>
+        <text encoding="base64">XDxfY2lkXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwbG90LnN1YnBsb3RzWzBdLnNldFRpdGxlKHRpdGxlKQo=</text>
@@ -388,15 +391,14 @@
       </register>
     </registers>
     <search>
-      <last-search>set_sweep</last-search>
+      <last-search encoding="base64">XDxfY2lkXD4=</last-search>
       <last-offset />
-      <last-pattern>set_sweep</last-pattern>
+      <last-pattern encoding="base64">XDxfY2lkXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>arb.</entry>
         <entry>title</entry>
         <entry>labels</entry>
         <entry>name</entry>
@@ -416,6 +418,7 @@
         <entry>standardP</entry>
         <entry>StandardPar</entry>
         <entry>set_sweep</entry>
+        <entry encoding="base64">XDxfY2lkXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>Q</entry>
