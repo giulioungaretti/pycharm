@@ -83,8 +83,8 @@
         <mark key="." line="96" column="0" />
         <mark key="^" line="94" column="25" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" timestamp="1486631178867">
-        <mark key="'" line="227" column="21" />
+      <file name="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" timestamp="1486742693225">
+        <mark key="'" line="24" column="4" />
       </file>
       <file name="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/tests/test.py" timestamp="1485421168341">
         <mark key="[" line="8" column="0" />
@@ -248,13 +248,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="165" column="62" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
-      <jump line="13" column="22" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
-      <jump line="37" column="19" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
-      <jump line="200" column="0" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
-      <jump line="42" column="0" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
-      <jump line="178" column="0" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
       <jump line="52" column="30" filename="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument_drivers/ithaco/Ithaco_1211.py" />
       <jump line="22" column="11" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/plots/pyqtgraph.py" />
       <jump line="0" column="0" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/plots/pyqtgraph.py" />
@@ -348,6 +341,13 @@
       <jump line="786" column="13" filename="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument/parameter.py" />
       <jump line="1055" column="13" filename="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument/parameter.py" />
       <jump line="120" column="13" filename="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument/parameter.py" />
+      <jump line="26" column="4" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
+      <jump line="31" column="4" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
+      <jump line="211" column="19" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
+      <jump line="22" column="4" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
+      <jump line="23" column="4" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
+      <jump line="24" column="4" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -357,7 +357,7 @@
         <text>cass</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfbWV0YV9hdHRyc1w+</text>
+        <text encoding="base64">XDxDVVJSRU5UX0VYUEVSSU1FTlRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwbG90LnN1YnBsb3RzWzBdLnNldFRpdGxlKHRpdGxlKQo=</text>
@@ -394,16 +394,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfbWV0YV9hdHRyc1w+</last-search>
+      <last-search encoding="base64">XDxDVVJSRU5UX0VYUEVSSU1FTlRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfbWV0YV9hdHRyc1w+</last-pattern>
+      <last-pattern encoding="base64">XDxDVVJSRU5UX0VYUEVSSU1FTlRcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>name</entry>
-        <entry>missing</entry>
         <entry encoding="base64">XDxuYW1lXD4=</entry>
         <entry>timecon</entry>
         <entry>cons</entry>
@@ -422,6 +420,8 @@
         <entry encoding="base64">XDxfY2lkXD4=</entry>
         <entry>reset</entry>
         <entry encoding="base64">XDxfbWV0YV9hdHRyc1w+</entry>
+        <entry encoding="base64">XDxleHBfZm9sZGVyXD4=</entry>
+        <entry encoding="base64">XDxDVVJSRU5UX0VYUEVSSU1FTlRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>Q</entry>
