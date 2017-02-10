@@ -45,12 +45,12 @@
         <mark key="." line="46" column="13" />
         <mark key="^" line="46" column="13" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument_drivers/devices.py" timestamp="1486578214525">
+      <file name="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument_drivers/devices.py" timestamp="1486728219115">
         <mark key="'" line="27" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="43" column="27" />
-        <mark key="." line="7" column="29" />
-        <mark key="^" line="7" column="29" />
+        <mark key="[" line="34" column="37" />
+        <mark key="]" line="34" column="39" />
+        <mark key="^" line="34" column="39" />
+        <mark key="." line="34" column="39" />
       </file>
       <file name="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/instrument_drivers/yokogawa/GS200.py" timestamp="1486648900579">
         <mark key="'" line="14" column="12" />
@@ -110,7 +110,7 @@
         <mark key="." line="121" column="77" />
         <mark key="^" line="121" column="77" />
       </file>
-      <file name="/Dummy.txt" timestamp="1486649363744">
+      <file name="/Dummy.txt" timestamp="1486728305322">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/tests/test_format.py" timestamp="1480966170730">
@@ -188,8 +188,8 @@
       <file name="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/instrument_drivers/stanford_research/SR830.py" timestamp="1486548492647">
         <mark key="'" line="135" column="24" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument/parameter.py" timestamp="1486565875189">
-        <mark key="'" line="848" column="18" />
+      <file name="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument/parameter.py" timestamp="1486727718272">
+        <mark key="'" line="120" column="13" />
         <mark key="[" line="850" column="36" />
         <mark key="]" line="850" column="39" />
         <mark key="." line="850" column="39" />
@@ -248,12 +248,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="8" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
-      <jump line="117" column="29" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
-      <jump line="121" column="62" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
-      <jump line="122" column="61" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
-      <jump line="155" column="0" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
       <jump line="165" column="62" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
       <jump line="13" column="22" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
       <jump line="37" column="19" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
@@ -348,61 +342,66 @@
       <jump line="11" column="6" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/instrument_drivers/yokogawa/GS200.py" />
       <jump line="18" column="38" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/instrument_drivers/yokogawa/GS200.py" />
       <jump line="14" column="12" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/instrument_drivers/yokogawa/GS200.py" />
+      <jump line="281" column="13" filename="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument/parameter.py" />
+      <jump line="457" column="13" filename="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument/parameter.py" />
+      <jump line="613" column="13" filename="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument/parameter.py" />
+      <jump line="786" column="13" filename="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument/parameter.py" />
+      <jump line="1055" column="13" filename="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument/parameter.py" />
+      <jump line="120" column="13" filename="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument/parameter.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Q2xhc3MgCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>cass</text>
       </register>
       <register name="/" type="4">
-        <text>reset</text>
+        <text encoding="base64">XDxfbWV0YV9hdHRyc1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwbG90LnN1YnBsb3RzWzBdLnNldFRpdGxlKHRpdGxlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Q2xhc3MgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIK</text>
+        <text encoding="base64">Y2xhc3MgcmVzaXN0aXZlX2dhaW4oKToK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIKCiAgICAgICAgQXJnczoKICAgICAgICAgICAgbmFtZToKICAgICAgICAgICAgYWRkcmVzczoKICAgICAgICAgICAgcmVzZXQ6CiAgICAgICAgICAgICoqa3dhcmdzOgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcmVzZXQ6Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAiIiIK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAiIiIKCiAgICAgICAgQXJnczoKICAgICAgICAgICAgbmFtZToKICAgICAgICAgICAgYWRkcmVzczoKICAgICAgICAgICAgcmVzZXQ6CiAgICAgICAgICAgICoqa3dhcmdzOgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgcmVzZXQ6Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIKCiAgICAgICAgIiIiCg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm46Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>reset</last-search>
+      <last-search encoding="base64">XDxfbWV0YV9hdHRyc1w+</last-search>
       <last-offset />
-      <last-pattern>reset</last-pattern>
+      <last-pattern encoding="base64">XDxfbWV0YV9hdHRyc1w+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>labels</entry>
         <entry>name</entry>
         <entry>missing</entry>
         <entry encoding="base64">XDxuYW1lXD4=</entry>
@@ -422,6 +421,7 @@
         <entry>set_sweep</entry>
         <entry encoding="base64">XDxfY2lkXD4=</entry>
         <entry>reset</entry>
+        <entry encoding="base64">XDxfbWV0YV9hdHRyc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>Q</entry>
@@ -440,9 +440,9 @@
         <entry>Wqa</entry>
         <entry>q</entry>
         <entry>set noerrorbells</entry>
-        <entry>set visualbell</entry>
         <entry>vs</entry>
         <entry>W</entry>
+        <entry>set visualbell</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
