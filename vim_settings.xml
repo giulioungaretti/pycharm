@@ -83,8 +83,11 @@
         <mark key="." line="96" column="0" />
         <mark key="^" line="94" column="25" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" timestamp="1486742693225">
-        <mark key="'" line="24" column="4" />
+      <file name="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" timestamp="1486745105937">
+        <mark key="[" line="38" column="9" />
+        <mark key="]" line="39" column="45" />
+        <mark key="^" line="39" column="45" />
+        <mark key="." line="39" column="45" />
       </file>
       <file name="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/tests/test.py" timestamp="1485421168341">
         <mark key="[" line="8" column="0" />
@@ -248,7 +251,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="30" filename="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/instrument_drivers/ithaco/Ithaco_1211.py" />
       <jump line="22" column="11" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/plots/pyqtgraph.py" />
       <jump line="0" column="0" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/plots/pyqtgraph.py" />
       <jump line="6" column="20" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/instrument_drivers/stanford_research/SR830.py" />
@@ -348,13 +350,14 @@
       <jump line="22" column="4" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
       <jump line="23" column="4" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
       <jump line="24" column="4" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
+      <jump line="38" column="8" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Q2xhc3MgCg==</text>
+      <register name="&quot;" type="4">
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>cass</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDVVJSRU5UX0VYUEVSSU1FTlRcPg==</text>
@@ -363,31 +366,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwbG90LnN1YnBsb3RzWzBdLnNldFRpdGxlKHRpdGxlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Q2xhc3MgCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnaW5nCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y2xhc3MgcmVzaXN0aXZlX2dhaW4oKToK</text>
+        <text encoding="base64">ICAgIGxvZ2dpbmcuY2FwdHVyZVdhcm5pbmdzKEZhbHNlKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBleGNlcHQgVXNlcldhcm5pbmc6CiAgICAgICAgICAgIGxvZ2dpbmcuZGVidWcoImxvZ2dpbmcgYWxyZWFkeSBzdGFydGVkIGluIGN1cnJlbnQgc2Vzc2lvbiBhbmQgZXhwZXJpbWVudCIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIK</text>
+        <text encoding="base64">ICAgICMgZGlydHkgaGFjayB0byBjYXB0dXJlIHdhcm5pbmcgZnJvbSBJUFlUSE9OCiAgICBsb2dnaW5nLmNhcHR1cmVXYXJuaW5ncyhUcnVlKQogICAgbG9nID0gbG9nZ2luZy5nZXRMb2dnZXIoInB5Lndhcm5pbmdzIikKICAgIGxvZy5zZXRMZXZlbChsZXZlbD0iRVJST1IiKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIKCiAgICAgICAgQXJnczoKICAgICAgICAgICAgbmFtZToKICAgICAgICAgICAgYWRkcmVzczoKICAgICAgICAgICAgcmVzZXQ6CiAgICAgICAgICAgICoqa3dhcmdzOgo=</text>
+        <text encoding="base64">Q2xhc3MgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcmVzZXQ6Cg==</text>
+        <text encoding="base64">Y2xhc3MgcmVzaXN0aXZlX2dhaW4oKToK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
