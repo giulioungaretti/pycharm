@@ -70,7 +70,7 @@
         <mark key="^" line="74" column="32" />
         <mark key="." line="74" column="32" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/tests/instrument_mocks.py" timestamp="1486992589523">
+      <file name="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/tests/instrument_mocks.py" timestamp="1486995763122">
         <mark key="'" line="299" column="47" />
         <mark key="[" line="299" column="47" />
         <mark key="]" line="299" column="55" />
@@ -394,7 +394,7 @@
         <text encoding="base64">Y2xhc3MgcmVzaXN0aXZlX2dhaW4oKToK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>qa</text>
       </register>
     </registers>
     <search>
@@ -432,7 +432,6 @@
         <entry>q!</entry>
         <entry>buffers</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>qa</entry>
         <entry>e</entry>
         <entry>ws</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
@@ -448,6 +447,7 @@
         <entry>W</entry>
         <entry>set visualbell</entry>
         <entry>w</entry>
+        <entry>qa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
