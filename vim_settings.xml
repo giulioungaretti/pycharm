@@ -83,11 +83,12 @@
         <mark key="." line="96" column="0" />
         <mark key="^" line="94" column="25" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" timestamp="1486745105937">
-        <mark key="[" line="38" column="9" />
-        <mark key="]" line="39" column="45" />
-        <mark key="^" line="39" column="45" />
-        <mark key="." line="39" column="45" />
+      <file name="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" timestamp="1486989977742">
+        <mark key="'" line="81" column="12" />
+        <mark key="[" line="42" column="31" />
+        <mark key="]" line="42" column="41" />
+        <mark key="^" line="42" column="41" />
+        <mark key="." line="42" column="41" />
       </file>
       <file name="$USER_HOME$/OneDrive/Dokumenter/src/Qcodes/qcodes/tests/test.py" timestamp="1485421168341">
         <mark key="[" line="8" column="0" />
@@ -251,9 +252,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="11" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/plots/pyqtgraph.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/plots/pyqtgraph.py" />
-      <jump line="6" column="20" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/instrument_drivers/stanford_research/SR830.py" />
       <jump line="154" column="33" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/instrument_drivers/stanford_research/SR830.py" />
       <jump line="155" column="39" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/instrument_drivers/stanford_research/SR830.py" />
       <jump line="135" column="24" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/instrument_drivers/stanford_research/SR830.py" />
@@ -351,13 +349,16 @@
       <jump line="23" column="4" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
       <jump line="24" column="4" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
       <jump line="38" column="8" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
+      <jump line="39" column="7" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
+      <jump line="3" column="22" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
+      <jump line="81" column="12" filename="$USER_HOME$/OneDrive/Dokumenter/src/qcodes-qdev/qcodes/utils/wrappers.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDVVJSRU5UX0VYUEVSSU1FTlRcPg==</text>
@@ -366,34 +367,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwbG90LnN1YnBsb3RzWzBdLnNldFRpdGxlKHRpdGxlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnaW5nCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxvZ2dpbmcuY2FwdHVyZVdhcm5pbmdzKEZhbHNlKQo=</text>
+        <text encoding="base64">ICAgICAgICAjVE9ETyBjcmVhdGUgcGF0aCBpZiBpdCBkb2VzIG5vdCBleGlzdAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQgVXNlcldhcm5pbmc6CiAgICAgICAgICAgIGxvZ2dpbmcuZGVidWcoImxvZ2dpbmcgYWxyZWFkeSBzdGFydGVkIGluIGN1cnJlbnQgc2Vzc2lvbiBhbmQgZXhwZXJpbWVudCIpCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnaW5nCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
+        <text encoding="base64">ICAgIGxvZ2dpbmcuY2FwdHVyZVdhcm5pbmdzKEZhbHNlKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgZGlydHkgaGFjayB0byBjYXB0dXJlIHdhcm5pbmcgZnJvbSBJUFlUSE9OCiAgICBsb2dnaW5nLmNhcHR1cmVXYXJuaW5ncyhUcnVlKQogICAgbG9nID0gbG9nZ2luZy5nZXRMb2dnZXIoInB5Lndhcm5pbmdzIikKICAgIGxvZy5zZXRMZXZlbChsZXZlbD0iRVJST1IiKQo=</text>
+        <text encoding="base64">ICAgICAgICBleGNlcHQgVXNlcldhcm5pbmc6CiAgICAgICAgICAgIGxvZ2dpbmcuZGVidWcoImxvZ2dpbmcgYWxyZWFkeSBzdGFydGVkIGluIGN1cnJlbnQgc2Vzc2lvbiBhbmQgZXhwZXJpbWVudCIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Q2xhc3MgCg==</text>
+        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y2xhc3MgcmVzaXN0aXZlX2dhaW4oKToK</text>
+        <text encoding="base64">ICAgICMgZGlydHkgaGFjayB0byBjYXB0dXJlIHdhcm5pbmcgZnJvbSBJUFlUSE9OCiAgICBsb2dnaW5nLmNhcHR1cmVXYXJuaW5ncyhUcnVlKQogICAgbG9nID0gbG9nZ2luZy5nZXRMb2dnZXIoInB5Lndhcm5pbmdzIikKICAgIGxvZy5zZXRMZXZlbChsZXZlbD0iRVJST1IiKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Q2xhc3MgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2xhc3MgcmVzaXN0aXZlX2dhaW4oKToK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>set visualbell</text>
       </register>
     </registers>
     <search>
@@ -445,8 +446,8 @@
         <entry>set noerrorbells</entry>
         <entry>vs</entry>
         <entry>W</entry>
-        <entry>set visualbell</entry>
         <entry>w</entry>
+        <entry>set visualbell</entry>
       </history-cmd>
       <history-expr />
       <history-input />
