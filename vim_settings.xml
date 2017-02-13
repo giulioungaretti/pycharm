@@ -394,7 +394,7 @@
         <text encoding="base64">Y2xhc3MgcmVzaXN0aXZlX2dhaW4oKToK</text>
       </register>
       <register name=":" type="4">
-        <text>set visualbell</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -446,8 +446,8 @@
         <entry>set noerrorbells</entry>
         <entry>vs</entry>
         <entry>W</entry>
-        <entry>w</entry>
         <entry>set visualbell</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
